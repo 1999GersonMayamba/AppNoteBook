@@ -1,0 +1,5 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item><color android:color="@color/LodingApp_background" /></item><item><bitmap android:src="@drawable/lodingappicon" android:tileMode="disabled" android:gravity="center" /></item><!--<item android:paddingTop="30dp">
+    <bitmap
+        android:src="@drawable/ImageLogVersao"
+        android:gravity="center_horizontal"/>
+  </item>--></layer-list>

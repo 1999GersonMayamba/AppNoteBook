@@ -20,4 +20,10 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)API\" />
+    <Folder Include="$(MSBuildThisFileDirectory)INFO\" />
+    <Folder Include="$(MSBuildThisFileDirectory)INTERFACE\" />
+    <Folder Include="$(MSBuildThisFileDirectory)View\" />
+  </ItemGroup>
 </Project>

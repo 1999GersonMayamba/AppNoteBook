@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
 
+
+  <!--Tema da pagina de inicialização da App-->
+  <style name ="Theme.Splash"
+         parent="android:Theme">
+
+    <item name ="android:windowBackground">@drawable/LodingPage</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowActionBar">true</item>
+  </style>
+  
   <style name="MainTheme" parent="MainTheme.Base">
   </style>
   <!-- Base theme applied no matter what API -->
