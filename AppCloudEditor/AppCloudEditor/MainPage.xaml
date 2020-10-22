@@ -2,13 +2,29 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:AppCloudEditor"
-             x:Class="AppCloudEditor.MainPage">
+             x:Class="AppCloudEditor.MainPage"
+             BackgroundColor="#e3e3e3"
+             Title="Nota">
 
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem  Priority="1" Text="Salvar"   x:Name="Btn_Salvar_Nota" Order="Secondary"
+                      Clicked="Btn_Salvar_Nota_Icon_Clicked"/>
+        <ToolbarItem  Priority="0" Clicked="Btn_Salvar_Nota_Icon_Clicked"
+                      x:Name="Btn_Salvar_Nota_Icon">
+            <ToolbarItem.IconImageSource>
+                <FontImageSource FontFamily="{StaticResource FontAwesomeSolid}"  
+                                 Glyph="" Color="#ffc300" Size="20"/>
+            </ToolbarItem.IconImageSource>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    
     <StackLayout>
+        <Entry Placeholder="Titulo" x:Name="Titulo" PlaceholderColor="#01D7BB"
+               FontAttributes="Bold" FontSize="20"/>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-               HorizontalOptions="Center"
-               VerticalOptions="CenterAndExpand" />
+        <Editor VerticalOptions="FillAndExpand"  AutoSize="TextChanges"
+                BackgroundColor="White" HorizontalOptions="FillAndExpand" x:Name="Editor_Nota"/>
     </StackLayout>
 
 </ContentPage>

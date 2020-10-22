@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppCloudEditor.View;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -11,7 +12,10 @@ namespace AppCloudEditor
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new Home()) //Home#01D7BB
+            {
+                BarBackgroundColor = Color.FromHex("#023047")
+            };
         }
 
         protected override void OnStart()
