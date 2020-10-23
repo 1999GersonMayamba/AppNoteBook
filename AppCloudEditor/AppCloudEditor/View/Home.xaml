@@ -39,6 +39,18 @@
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
+
+                            <ViewCell.ContextActions>
+                                <!--<MenuItem Text="Editar" x:Name="Btn_Editar" Clicked="Btn_Editar_Clicked"
+                                          CommandParameter="{Binding Id}" />-->
+                                <MenuItem Text="Eliminar" x:Name="Btn_Eliminar" Clicked="Btn_Eliminar_Clicked"
+                                          CommandParameter="{Binding Id}">
+                                    <MenuItem.IconImageSource>
+                                        <FontImageSource FontFamily="{StaticResource FontAwesomeSolid}"  
+                                                         Glyph="" Color="#ffc300" Size="20"/>
+                                    </MenuItem.IconImageSource>
+                                </MenuItem>
+                            </ViewCell.ContextActions>
                             <template:NotasViewTemplate />
                         </ViewCell>
                     </DataTemplate>

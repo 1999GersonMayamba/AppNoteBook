@@ -101,6 +101,11 @@ namespace AppCloudEditor.View
 
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void ListaDeNotas_ItemTapped(object sender, ItemTappedEventArgs e)
         {
 
@@ -152,6 +157,64 @@ namespace AppCloudEditor.View
             {
                await DisplayAlert("ERRO", ex.Message, "OK");
             }
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private async void Btn_Editar_Clicked(object sender, EventArgs e)
+        {
+            try
+            {
+
+                var Item = ((MenuItem)sender);
+                var Nota = Item.CommandParameter as Tb_Nota;
+
+                //Deselect Item
+               // ((ListView)sender).SelectedItem = null;
+                //Chamar a pagina de exibir a nota para poder ser editado
+                await Navigation.PushAsync(new MainPage(Nota));
+            }
+            catch (Exception ex)
+            {
+                await DisplayAlert("ERRO", ex.Message, "OK");
+            }
+
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private async void Btn_Eliminar_Clicked(object sender, EventArgs e)
+        {
+            try
+            {
+                var Item = ((MenuItem)sender);
+                var Nota = Item.CommandParameter; 
+
+                //Eliminar a nota da base de dados
+                int Resultado = conn.Delete<Tb_Nota>(Nota);
+
+                if (Resultado == 1)
+                {
+                    DependencyService.Get<IMessage>().ShortAlert("Nota eliminado com sucesso");
+                    CarregarListaNotas();
+                }
+                else
+                {
+                    DependencyService.Get<IMessage>().LongAlert("Não foi possivél eliminar a sua nota");
+                }
+
+            }
+            catch (Exception ex)
+            {
+                await DisplayAlert("NOTA", ex.Message, "OK");
+            }
+
         }
     }
 }
