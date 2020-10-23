@@ -17,6 +17,7 @@ namespace AppCloudEditor.View
 	{
 
         public SQLiteConnection conn;
+        private List<string> ListaCores = new List<string> { "#BECAE6", "#209EBB", "#023047", "#FFB701", "#FC8500" };
 
         public Home ()
 		{
@@ -57,9 +58,15 @@ namespace AppCloudEditor.View
                 //Trazer a lista de notas que se encontra na base de dados
                 var Notas = (from k in conn.Table<Tb_Nota>() select k).ToList();
 
+                Random random = new Random();
+
                 //Se tiver notas na lista
                 if (Notas.Count > 0)
                 {
+                    foreach(var x in Notas)
+                    {
+                        x.Cor = ListaCores[random.Next(0, 4)];
+                    }
                     ListaDeNotas.ItemsSource = Notas;
                 }
                 else

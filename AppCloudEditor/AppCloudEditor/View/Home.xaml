@@ -3,12 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppCloudEditor.View.Home"
               xmlns:PanCake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:template="clr-namespace:AppCloudEditor.View.Templates"
              BackgroundColor="White"
              Title="Notas">
 
+
+    <!--BOTÕES DA BARRA SUPERIOR DA APLICAÇÃO-->
     <ContentPage.ToolbarItems>
+        <!--BOTÃO PARA CRIAR UMA NOVA NOTA-->
         <ToolbarItem  Priority="1" Text="Novo"   x:Name="Btn_Nova_Nota" Order="Secondary"
                       Clicked="Btn_Nova_Nota_Clicked"/>
+
+        <!--BOTÃO PARA CRIAR UMA NOVA NOTA ICONE-->
         <ToolbarItem  Priority="0" Clicked="ToolbarItem_Clicked">
             <ToolbarItem.IconImageSource>
                 <FontImageSource FontFamily="{StaticResource FontAwesomeSolid}"  
@@ -21,75 +27,7 @@
 
     <ContentPage.Content>
         <StackLayout>
-
-            <!--<PanCake:PancakeView
-                        Margin="0,0,0,0"
-                        Padding="0,0,0,0"
-                        BackgroundColor="#571845"
-                        CornerRadius="0,0,0,40"
-                        VerticalOptions="FillAndExpand"
-                        HeightRequest="70">
-
-                <Grid  BackgroundColor="#023047"
-                       Padding="0,0,0,0">
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="*"/>
-                        <ColumnDefinition Width="Auto"/>
-                    </Grid.ColumnDefinitions>
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="Auto"/>
-                        <RowDefinition Height="Auto"/>
-                    </Grid.RowDefinitions>
-
-
-                    --><!-- 1. Cabeçalho--><!--
-                    <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"  FontAttributes="Bold" Padding="20,0">
-                        <Label.FormattedText>
-                            <FormattedString>
-                                <Span Text="Detalhe Proposta" FontSize="30" TextColor="#ffffff"/>
-                            </FormattedString>
-                        </Label.FormattedText>
-                    </Label>
-                    <Label Grid.Column="0" Grid.Row="1" 
-                           FontSize="15" TextColor="#ffffff" Padding="20,0">
-                        <Label.FormattedText>
-                            <FormattedString>
-                                <Span Text=" " FontSize="20"/>
-                                <Span Text="Bloco Notas"  FontSize="15"/>
-                            </FormattedString>
-                        </Label.FormattedText>
-                    </Label>
-                    --><!--<Button Grid.Column="1" Grid.Row="0" ImageSource="HamburgerMenu" Grid.RowSpan="2" BackgroundColor="#fed300" WidthRequest="{OnPlatform iOS='40', Android='50'}" HeightRequest="{OnPlatform iOS='40', Android='50'}" VerticalOptions="CenterAndExpand" HorizontalOptions="End" Margin="0,0,20,0"/>--><!--
-                    <PanCake:PancakeView Grid.Row="0" 
-                                 Grid.Column="1" 
-                                 Grid.RowSpan="2" 
-                                 CornerRadius="15,15,15,15"   
-                                 BackgroundColor="#333333" 
-                                 WidthRequest="{OnPlatform iOS='40', Android='50'}" 
-                                 HeightRequest="{OnPlatform iOS='40', Android='50'}" 
-                                 VerticalOptions="CenterAndExpand" 
-                                 HorizontalOptions="End" Margin="0,0,20,0">
-
-                        <Image Source="IconeDaAplicacao.png" Aspect="Fill" />
-
-                    </PanCake:PancakeView>
-
-                    --><!--<Label Grid.Row="3" Padding="20,0" Text="DETALHE DO PEDIDO" 
-                       FontSize="20" TextColor="White" FontAttributes="Bold" />--><!--
-
-                </Grid>
-
-            </PanCake:PancakeView>-->
-
-            <!--<PanCake:PancakeView
-                    Margin="0,0,0,0"
-                    Padding="0,0,0,0"
-                    BackgroundColor="White"
-                    CornerRadius="40,40,0,0"
-                    VerticalOptions="FillAndExpand">-->
-
-
-                <ListView   
+            <ListView   
                         x:Name="ListaDeNotas"  
                         RowHeight="55"
                         HasUnevenRows="True" 
@@ -98,53 +36,14 @@
                         SeparatorColor="Gray">
 
 
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <ViewCell>
-                                <ViewCell.View>
-                                    <Grid Margin="10">
-                                        <Grid.RowDefinitions>
-                                            <RowDefinition Height="20"></RowDefinition>
-                                            <RowDefinition Height="*"></RowDefinition>
-                                        </Grid.RowDefinitions>
-                                        <Grid.ColumnDefinitions>
-                                            <ColumnDefinition Width="*"></ColumnDefinition>
-                                            <ColumnDefinition Width="40"></ColumnDefinition>
-                                        </Grid.ColumnDefinitions>
-
-                                        <Label Grid.Row="0" 
-                                           Grid.Column="0" 
-                                           Text="{Binding Titulo}"  
-                                           LineBreakMode="TailTruncation"
-                                           FontSize="15"
-                                           TextColor="Black"
-                                           FontAttributes="Bold"/>
-
-                                        <Label Grid.Row="1" Grid.Column="0" 
-                                           Text="{Binding Nota}"  
-                                            FontSize="12"  
-                                           FontAttributes="Bold"
-                                           LineBreakMode="TailTruncation"
-                                           TextColor="#999999"/>
-
-                                        <StackLayout Grid.Row="0" Grid.RowSpan="2" 
-                                                     Grid.Column="1" >
-
-                                            <Label Grid.Row="0" Grid.RowSpan="2" Grid.Column="1" TextColor="#627AAD">
-                                                <Label.FormattedText>
-                                                    <FormattedString>
-                                                        <Span Text="{Binding Data_Nota}" FontSize="6" FontAttributes="Bold"/>
-                                                    </FormattedString>
-                                                </Label.FormattedText>
-                                            </Label>
-
-                                        </StackLayout>
-                                    </Grid>
-                                </ViewCell.View>
-                            </ViewCell>
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <template:NotasViewTemplate />
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
 
             <!--</PanCake:PancakeView>-->
 

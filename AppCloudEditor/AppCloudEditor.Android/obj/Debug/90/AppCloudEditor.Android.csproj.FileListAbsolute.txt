@@ -109,3 +109,4 @@ C:\Projectos Visual Studio 2017\Portofolio\AppCloudEditor\AppCloudEditor.Android
 C:\Projectos Visual Studio 2017\Portofolio\AppCloudEditor\AppCloudEditor.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
 C:\Projectos Visual Studio 2017\Portofolio\AppCloudEditor\AppCloudEditor.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Projectos Visual Studio 2017\Portofolio\AppCloudEditor\AppCloudEditor.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Projectos Visual Studio 2017\Portofolio\AppCloudEditor\AppCloudEditor.Android\obj\Debug\90\View\Templates\NotasViewTemplate.xaml.g.cs

@@ -7,9 +7,19 @@
              Title="Nota">
 
 
+    <!--BOTÕES DA BARRA SUPERIOR DA APLICAÇÃO-->
     <ContentPage.ToolbarItems>
+        
+        <!--BOTÃO PARA SALVAR A NOTA-->
         <ToolbarItem  Priority="1" Text="Salvar"   x:Name="Btn_Salvar_Nota" Order="Secondary"
                       Clicked="Btn_Salvar_Nota_Icon_Clicked"/>
+
+        <!--BOTÃO PARA ELIMINARAR  NOTA-->
+        <ToolbarItem  Priority="1" Text="Eliminar"   x:Name="Btn_Eliminar_Nota" 
+                      Order="Secondary"
+                      Clicked="Btn_Eliminar_Nota_Clicked"/>
+
+        <!--BOTÃO PARA SALVAR A NOTA ICONE-->
         <ToolbarItem  Priority="0" Clicked="Btn_Salvar_Nota_Icon_Clicked"
                       x:Name="Btn_Salvar_Nota_Icon">
             <ToolbarItem.IconImageSource>
@@ -17,12 +27,27 @@
                                  Glyph="" Color="#ffc300" Size="20"/>
             </ToolbarItem.IconImageSource>
         </ToolbarItem>
+
+        <!--BOTÃO PARA ELIMIAR A NOTA ICONE-->
+        <ToolbarItem  Priority="0" Clicked="Btn_Eliminar_Nota_Clicked"
+                      x:Name="Btn_Eliminar_Nota_Icon">
+            <ToolbarItem.IconImageSource>
+                <FontImageSource FontFamily="{StaticResource FontAwesomeSolid}"  
+                                 Glyph="" Color="#ffc300" Size="20"/>
+            </ToolbarItem.IconImageSource>
+        </ToolbarItem>
     </ContentPage.ToolbarItems>
     
+    
+    
     <StackLayout>
+        
+        <!--CAMMPO PARA O TITULO DA NOTA-->
         <Entry Placeholder="Titulo" x:Name="Titulo" PlaceholderColor="#01D7BB"
                FontAttributes="Bold" FontSize="20"/>
-        <!-- Place new controls here -->
+        
+        
+        <!--CAMPO PARA O CORPO DA NOTA-->
         <Editor VerticalOptions="FillAndExpand"  AutoSize="TextChanges"
                 BackgroundColor="White" HorizontalOptions="FillAndExpand" x:Name="Editor_Nota"/>
     </StackLayout>
