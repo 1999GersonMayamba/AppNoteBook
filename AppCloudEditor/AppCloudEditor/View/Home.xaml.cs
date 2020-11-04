@@ -115,7 +115,7 @@ namespace AppCloudEditor.View
                 var Nota = e.Item as Tb_Nota;
 
                 //Deselect Item
-                ((ListView)sender).SelectedItem = null;
+               // ((ListView)sender).SelectedItem = null;
                 //Chamar a pagina de exibir a nota para poder ser editado
                 await Navigation.PushAsync(new MainPage(Nota));
             }

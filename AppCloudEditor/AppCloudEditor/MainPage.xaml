@@ -40,11 +40,11 @@
     
     
     
-    <StackLayout>
+    <StackLayout Background="White">
         
         <!--CAMMPO PARA O TITULO DA NOTA-->
-        <Entry Placeholder="Titulo" x:Name="Titulo" PlaceholderColor="#01D7BB"
-               FontAttributes="Bold" FontSize="20"/>
+        <Entry Placeholder="Titulo" x:Name="Titulo" PlaceholderColor="#023047"
+               FontAttributes="Bold" FontSize="20" Background="White"/>
         
         
         <!--CAMPO PARA O CORPO DA NOTA-->

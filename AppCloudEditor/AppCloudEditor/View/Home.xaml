@@ -32,7 +32,7 @@
                         RowHeight="55"
                         HasUnevenRows="True" 
                         CachingStrategy="RecycleElement"
-                       ItemTapped="ListaDeNotas_ItemTapped"
+                        ItemTapped="ListaDeNotas_ItemTapped"
                         SeparatorColor="Gray">
 
 
