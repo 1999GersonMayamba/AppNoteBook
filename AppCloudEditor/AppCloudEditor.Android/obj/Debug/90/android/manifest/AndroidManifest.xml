@@ -12,7 +12,6 @@
       </intent-filter>
     </activity>
     <activity android:configChanges="orientation|screenSize" android:icon="@mipmap/icon" android:label="AppCloudEditor" android:screenOrientation="locked" android:theme="@style/MainTheme" android:name="md5e46111fd6f57c8aeedbc2ab1aa6b4cf1.MainActivity" />
-    <activity android:label="TEditorActivity" android:theme="@style/Theme.AppCompat.NoActionBar.FullScreen" android:windowSoftInputMode="stateHidden|adjustResize" android:name="md525f046c21a1141b64eea6b2c8f07d890.TEditorActivity" />
     <service android:name="md5dcb6eccdc824e0677ffae8ccdde42930.KeepAliveService" />
     <receiver android:enabled="true" android:exported="false" android:name="md51558244f76c53b6aeda52c8a337f2c37.PowerSaveModeBroadcastReceiver" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.AppCloudEditor.mono.MonoRuntimeProvider.__mono_init__" />

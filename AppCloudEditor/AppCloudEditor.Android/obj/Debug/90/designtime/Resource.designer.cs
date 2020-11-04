@@ -26,1259 +26,6 @@ namespace AppCloudEditor.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::TEditor.Resource.Animation.abc_fade_in = global::AppCloudEditor.Droid.Resource.Animation.abc_fade_in;
-			global::TEditor.Resource.Animation.abc_fade_out = global::AppCloudEditor.Droid.Resource.Animation.abc_fade_out;
-			global::TEditor.Resource.Animation.abc_grow_fade_in_from_bottom = global::AppCloudEditor.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::TEditor.Resource.Animation.abc_popup_enter = global::AppCloudEditor.Droid.Resource.Animation.abc_popup_enter;
-			global::TEditor.Resource.Animation.abc_popup_exit = global::AppCloudEditor.Droid.Resource.Animation.abc_popup_exit;
-			global::TEditor.Resource.Animation.abc_shrink_fade_out_from_bottom = global::AppCloudEditor.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::TEditor.Resource.Animation.abc_slide_in_bottom = global::AppCloudEditor.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::TEditor.Resource.Animation.abc_slide_in_top = global::AppCloudEditor.Droid.Resource.Animation.abc_slide_in_top;
-			global::TEditor.Resource.Animation.abc_slide_out_bottom = global::AppCloudEditor.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::TEditor.Resource.Animation.abc_slide_out_top = global::AppCloudEditor.Droid.Resource.Animation.abc_slide_out_top;
-			global::TEditor.Resource.Attribute.actionBarDivider = global::AppCloudEditor.Droid.Resource.Attribute.actionBarDivider;
-			global::TEditor.Resource.Attribute.actionBarItemBackground = global::AppCloudEditor.Droid.Resource.Attribute.actionBarItemBackground;
-			global::TEditor.Resource.Attribute.actionBarPopupTheme = global::AppCloudEditor.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::TEditor.Resource.Attribute.actionBarSize = global::AppCloudEditor.Droid.Resource.Attribute.actionBarSize;
-			global::TEditor.Resource.Attribute.actionBarSplitStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::TEditor.Resource.Attribute.actionBarStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionBarStyle;
-			global::TEditor.Resource.Attribute.actionBarTabBarStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::TEditor.Resource.Attribute.actionBarTabStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionBarTabStyle;
-			global::TEditor.Resource.Attribute.actionBarTabTextStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::TEditor.Resource.Attribute.actionBarTheme = global::AppCloudEditor.Droid.Resource.Attribute.actionBarTheme;
-			global::TEditor.Resource.Attribute.actionBarWidgetTheme = global::AppCloudEditor.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::TEditor.Resource.Attribute.actionButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionButtonStyle;
-			global::TEditor.Resource.Attribute.actionDropDownStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionDropDownStyle;
-			global::TEditor.Resource.Attribute.actionLayout = global::AppCloudEditor.Droid.Resource.Attribute.actionLayout;
-			global::TEditor.Resource.Attribute.actionMenuTextAppearance = global::AppCloudEditor.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::TEditor.Resource.Attribute.actionMenuTextColor = global::AppCloudEditor.Droid.Resource.Attribute.actionMenuTextColor;
-			global::TEditor.Resource.Attribute.actionModeBackground = global::AppCloudEditor.Droid.Resource.Attribute.actionModeBackground;
-			global::TEditor.Resource.Attribute.actionModeCloseButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::TEditor.Resource.Attribute.actionModeCloseDrawable = global::AppCloudEditor.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::TEditor.Resource.Attribute.actionModeCopyDrawable = global::AppCloudEditor.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::TEditor.Resource.Attribute.actionModeCutDrawable = global::AppCloudEditor.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::TEditor.Resource.Attribute.actionModeFindDrawable = global::AppCloudEditor.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::TEditor.Resource.Attribute.actionModePasteDrawable = global::AppCloudEditor.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::TEditor.Resource.Attribute.actionModePopupWindowStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::TEditor.Resource.Attribute.actionModeSelectAllDrawable = global::AppCloudEditor.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::TEditor.Resource.Attribute.actionModeShareDrawable = global::AppCloudEditor.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::TEditor.Resource.Attribute.actionModeSplitBackground = global::AppCloudEditor.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::TEditor.Resource.Attribute.actionModeStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionModeStyle;
-			global::TEditor.Resource.Attribute.actionModeWebSearchDrawable = global::AppCloudEditor.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::TEditor.Resource.Attribute.actionOverflowButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::TEditor.Resource.Attribute.actionOverflowMenuStyle = global::AppCloudEditor.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::TEditor.Resource.Attribute.actionProviderClass = global::AppCloudEditor.Droid.Resource.Attribute.actionProviderClass;
-			global::TEditor.Resource.Attribute.actionViewClass = global::AppCloudEditor.Droid.Resource.Attribute.actionViewClass;
-			global::TEditor.Resource.Attribute.activityChooserViewStyle = global::AppCloudEditor.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::TEditor.Resource.Attribute.alertDialogButtonGroupStyle = global::AppCloudEditor.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::TEditor.Resource.Attribute.alertDialogCenterButtons = global::AppCloudEditor.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::TEditor.Resource.Attribute.alertDialogStyle = global::AppCloudEditor.Droid.Resource.Attribute.alertDialogStyle;
-			global::TEditor.Resource.Attribute.alertDialogTheme = global::AppCloudEditor.Droid.Resource.Attribute.alertDialogTheme;
-			global::TEditor.Resource.Attribute.allowStacking = global::AppCloudEditor.Droid.Resource.Attribute.allowStacking;
-			global::TEditor.Resource.Attribute.arrowHeadLength = global::AppCloudEditor.Droid.Resource.Attribute.arrowHeadLength;
-			global::TEditor.Resource.Attribute.arrowShaftLength = global::AppCloudEditor.Droid.Resource.Attribute.arrowShaftLength;
-			global::TEditor.Resource.Attribute.autoCompleteTextViewStyle = global::AppCloudEditor.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::TEditor.Resource.Attribute.background = global::AppCloudEditor.Droid.Resource.Attribute.background;
-			global::TEditor.Resource.Attribute.backgroundSplit = global::AppCloudEditor.Droid.Resource.Attribute.backgroundSplit;
-			global::TEditor.Resource.Attribute.backgroundStacked = global::AppCloudEditor.Droid.Resource.Attribute.backgroundStacked;
-			global::TEditor.Resource.Attribute.backgroundTint = global::AppCloudEditor.Droid.Resource.Attribute.backgroundTint;
-			global::TEditor.Resource.Attribute.backgroundTintMode = global::AppCloudEditor.Droid.Resource.Attribute.backgroundTintMode;
-			global::TEditor.Resource.Attribute.barLength = global::AppCloudEditor.Droid.Resource.Attribute.barLength;
-			global::TEditor.Resource.Attribute.borderlessButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::TEditor.Resource.Attribute.buttonBarButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::TEditor.Resource.Attribute.buttonBarNegativeButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::TEditor.Resource.Attribute.buttonBarNeutralButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::TEditor.Resource.Attribute.buttonBarPositiveButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::TEditor.Resource.Attribute.buttonBarStyle = global::AppCloudEditor.Droid.Resource.Attribute.buttonBarStyle;
-			global::TEditor.Resource.Attribute.buttonPanelSideLayout = global::AppCloudEditor.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::TEditor.Resource.Attribute.buttonStyle = global::AppCloudEditor.Droid.Resource.Attribute.buttonStyle;
-			global::TEditor.Resource.Attribute.buttonStyleSmall = global::AppCloudEditor.Droid.Resource.Attribute.buttonStyleSmall;
-			global::TEditor.Resource.Attribute.buttonTint = global::AppCloudEditor.Droid.Resource.Attribute.buttonTint;
-			global::TEditor.Resource.Attribute.buttonTintMode = global::AppCloudEditor.Droid.Resource.Attribute.buttonTintMode;
-			global::TEditor.Resource.Attribute.checkboxStyle = global::AppCloudEditor.Droid.Resource.Attribute.checkboxStyle;
-			global::TEditor.Resource.Attribute.checkedTextViewStyle = global::AppCloudEditor.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::TEditor.Resource.Attribute.closeIcon = global::AppCloudEditor.Droid.Resource.Attribute.closeIcon;
-			global::TEditor.Resource.Attribute.closeItemLayout = global::AppCloudEditor.Droid.Resource.Attribute.closeItemLayout;
-			global::TEditor.Resource.Attribute.collapseContentDescription = global::AppCloudEditor.Droid.Resource.Attribute.collapseContentDescription;
-			global::TEditor.Resource.Attribute.collapseIcon = global::AppCloudEditor.Droid.Resource.Attribute.collapseIcon;
-			global::TEditor.Resource.Attribute.color = global::AppCloudEditor.Droid.Resource.Attribute.color;
-			global::TEditor.Resource.Attribute.colorAccent = global::AppCloudEditor.Droid.Resource.Attribute.colorAccent;
-			global::TEditor.Resource.Attribute.colorButtonNormal = global::AppCloudEditor.Droid.Resource.Attribute.colorButtonNormal;
-			global::TEditor.Resource.Attribute.colorControlActivated = global::AppCloudEditor.Droid.Resource.Attribute.colorControlActivated;
-			global::TEditor.Resource.Attribute.colorControlHighlight = global::AppCloudEditor.Droid.Resource.Attribute.colorControlHighlight;
-			global::TEditor.Resource.Attribute.colorControlNormal = global::AppCloudEditor.Droid.Resource.Attribute.colorControlNormal;
-			global::TEditor.Resource.Attribute.colorPrimary = global::AppCloudEditor.Droid.Resource.Attribute.colorPrimary;
-			global::TEditor.Resource.Attribute.colorPrimaryDark = global::AppCloudEditor.Droid.Resource.Attribute.colorPrimaryDark;
-			global::TEditor.Resource.Attribute.colorSwitchThumbNormal = global::AppCloudEditor.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::TEditor.Resource.Attribute.commitIcon = global::AppCloudEditor.Droid.Resource.Attribute.commitIcon;
-			global::TEditor.Resource.Attribute.contentInsetEnd = global::AppCloudEditor.Droid.Resource.Attribute.contentInsetEnd;
-			global::TEditor.Resource.Attribute.contentInsetLeft = global::AppCloudEditor.Droid.Resource.Attribute.contentInsetLeft;
-			global::TEditor.Resource.Attribute.contentInsetRight = global::AppCloudEditor.Droid.Resource.Attribute.contentInsetRight;
-			global::TEditor.Resource.Attribute.contentInsetStart = global::AppCloudEditor.Droid.Resource.Attribute.contentInsetStart;
-			global::TEditor.Resource.Attribute.controlBackground = global::AppCloudEditor.Droid.Resource.Attribute.controlBackground;
-			global::TEditor.Resource.Attribute.customNavigationLayout = global::AppCloudEditor.Droid.Resource.Attribute.customNavigationLayout;
-			global::TEditor.Resource.Attribute.defaultQueryHint = global::AppCloudEditor.Droid.Resource.Attribute.defaultQueryHint;
-			global::TEditor.Resource.Attribute.dialogPreferredPadding = global::AppCloudEditor.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::TEditor.Resource.Attribute.dialogTheme = global::AppCloudEditor.Droid.Resource.Attribute.dialogTheme;
-			global::TEditor.Resource.Attribute.displayOptions = global::AppCloudEditor.Droid.Resource.Attribute.displayOptions;
-			global::TEditor.Resource.Attribute.divider = global::AppCloudEditor.Droid.Resource.Attribute.divider;
-			global::TEditor.Resource.Attribute.dividerHorizontal = global::AppCloudEditor.Droid.Resource.Attribute.dividerHorizontal;
-			global::TEditor.Resource.Attribute.dividerPadding = global::AppCloudEditor.Droid.Resource.Attribute.dividerPadding;
-			global::TEditor.Resource.Attribute.dividerVertical = global::AppCloudEditor.Droid.Resource.Attribute.dividerVertical;
-			global::TEditor.Resource.Attribute.drawableSize = global::AppCloudEditor.Droid.Resource.Attribute.drawableSize;
-			global::TEditor.Resource.Attribute.drawerArrowStyle = global::AppCloudEditor.Droid.Resource.Attribute.drawerArrowStyle;
-			global::TEditor.Resource.Attribute.dropDownListViewStyle = global::AppCloudEditor.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::TEditor.Resource.Attribute.dropdownListPreferredItemHeight = global::AppCloudEditor.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::TEditor.Resource.Attribute.editTextBackground = global::AppCloudEditor.Droid.Resource.Attribute.editTextBackground;
-			global::TEditor.Resource.Attribute.editTextColor = global::AppCloudEditor.Droid.Resource.Attribute.editTextColor;
-			global::TEditor.Resource.Attribute.editTextStyle = global::AppCloudEditor.Droid.Resource.Attribute.editTextStyle;
-			global::TEditor.Resource.Attribute.elevation = global::AppCloudEditor.Droid.Resource.Attribute.elevation;
-			global::TEditor.Resource.Attribute.expandActivityOverflowButtonDrawable = global::AppCloudEditor.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::TEditor.Resource.Attribute.gapBetweenBars = global::AppCloudEditor.Droid.Resource.Attribute.gapBetweenBars;
-			global::TEditor.Resource.Attribute.goIcon = global::AppCloudEditor.Droid.Resource.Attribute.goIcon;
-			global::TEditor.Resource.Attribute.height = global::AppCloudEditor.Droid.Resource.Attribute.height;
-			global::TEditor.Resource.Attribute.hideOnContentScroll = global::AppCloudEditor.Droid.Resource.Attribute.hideOnContentScroll;
-			global::TEditor.Resource.Attribute.homeAsUpIndicator = global::AppCloudEditor.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::TEditor.Resource.Attribute.homeLayout = global::AppCloudEditor.Droid.Resource.Attribute.homeLayout;
-			global::TEditor.Resource.Attribute.icon = global::AppCloudEditor.Droid.Resource.Attribute.icon;
-			global::TEditor.Resource.Attribute.iconifiedByDefault = global::AppCloudEditor.Droid.Resource.Attribute.iconifiedByDefault;
-			global::TEditor.Resource.Attribute.imageButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.imageButtonStyle;
-			global::TEditor.Resource.Attribute.indeterminateProgressStyle = global::AppCloudEditor.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::TEditor.Resource.Attribute.initialActivityCount = global::AppCloudEditor.Droid.Resource.Attribute.initialActivityCount;
-			global::TEditor.Resource.Attribute.isLightTheme = global::AppCloudEditor.Droid.Resource.Attribute.isLightTheme;
-			global::TEditor.Resource.Attribute.itemPadding = global::AppCloudEditor.Droid.Resource.Attribute.itemPadding;
-			global::TEditor.Resource.Attribute.layout = global::AppCloudEditor.Droid.Resource.Attribute.layout;
-			global::TEditor.Resource.Attribute.listChoiceBackgroundIndicator = global::AppCloudEditor.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::TEditor.Resource.Attribute.listDividerAlertDialog = global::AppCloudEditor.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::TEditor.Resource.Attribute.listItemLayout = global::AppCloudEditor.Droid.Resource.Attribute.listItemLayout;
-			global::TEditor.Resource.Attribute.listLayout = global::AppCloudEditor.Droid.Resource.Attribute.listLayout;
-			global::TEditor.Resource.Attribute.listPopupWindowStyle = global::AppCloudEditor.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::TEditor.Resource.Attribute.listPreferredItemHeight = global::AppCloudEditor.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::TEditor.Resource.Attribute.listPreferredItemHeightLarge = global::AppCloudEditor.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::TEditor.Resource.Attribute.listPreferredItemHeightSmall = global::AppCloudEditor.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::TEditor.Resource.Attribute.listPreferredItemPaddingLeft = global::AppCloudEditor.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::TEditor.Resource.Attribute.listPreferredItemPaddingRight = global::AppCloudEditor.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::TEditor.Resource.Attribute.logo = global::AppCloudEditor.Droid.Resource.Attribute.logo;
-			global::TEditor.Resource.Attribute.logoDescription = global::AppCloudEditor.Droid.Resource.Attribute.logoDescription;
-			global::TEditor.Resource.Attribute.maxButtonHeight = global::AppCloudEditor.Droid.Resource.Attribute.maxButtonHeight;
-			global::TEditor.Resource.Attribute.measureWithLargestChild = global::AppCloudEditor.Droid.Resource.Attribute.measureWithLargestChild;
-			global::TEditor.Resource.Attribute.multiChoiceItemLayout = global::AppCloudEditor.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::TEditor.Resource.Attribute.navigationContentDescription = global::AppCloudEditor.Droid.Resource.Attribute.navigationContentDescription;
-			global::TEditor.Resource.Attribute.navigationIcon = global::AppCloudEditor.Droid.Resource.Attribute.navigationIcon;
-			global::TEditor.Resource.Attribute.navigationMode = global::AppCloudEditor.Droid.Resource.Attribute.navigationMode;
-			global::TEditor.Resource.Attribute.overlapAnchor = global::AppCloudEditor.Droid.Resource.Attribute.overlapAnchor;
-			global::TEditor.Resource.Attribute.paddingEnd = global::AppCloudEditor.Droid.Resource.Attribute.paddingEnd;
-			global::TEditor.Resource.Attribute.paddingStart = global::AppCloudEditor.Droid.Resource.Attribute.paddingStart;
-			global::TEditor.Resource.Attribute.panelBackground = global::AppCloudEditor.Droid.Resource.Attribute.panelBackground;
-			global::TEditor.Resource.Attribute.panelMenuListTheme = global::AppCloudEditor.Droid.Resource.Attribute.panelMenuListTheme;
-			global::TEditor.Resource.Attribute.panelMenuListWidth = global::AppCloudEditor.Droid.Resource.Attribute.panelMenuListWidth;
-			global::TEditor.Resource.Attribute.popupMenuStyle = global::AppCloudEditor.Droid.Resource.Attribute.popupMenuStyle;
-			global::TEditor.Resource.Attribute.popupTheme = global::AppCloudEditor.Droid.Resource.Attribute.popupTheme;
-			global::TEditor.Resource.Attribute.popupWindowStyle = global::AppCloudEditor.Droid.Resource.Attribute.popupWindowStyle;
-			global::TEditor.Resource.Attribute.preserveIconSpacing = global::AppCloudEditor.Droid.Resource.Attribute.preserveIconSpacing;
-			global::TEditor.Resource.Attribute.progressBarPadding = global::AppCloudEditor.Droid.Resource.Attribute.progressBarPadding;
-			global::TEditor.Resource.Attribute.progressBarStyle = global::AppCloudEditor.Droid.Resource.Attribute.progressBarStyle;
-			global::TEditor.Resource.Attribute.queryBackground = global::AppCloudEditor.Droid.Resource.Attribute.queryBackground;
-			global::TEditor.Resource.Attribute.queryHint = global::AppCloudEditor.Droid.Resource.Attribute.queryHint;
-			global::TEditor.Resource.Attribute.radioButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.radioButtonStyle;
-			global::TEditor.Resource.Attribute.ratingBarStyle = global::AppCloudEditor.Droid.Resource.Attribute.ratingBarStyle;
-			global::TEditor.Resource.Attribute.ratingBarStyleIndicator = global::AppCloudEditor.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::TEditor.Resource.Attribute.ratingBarStyleSmall = global::AppCloudEditor.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::TEditor.Resource.Attribute.searchHintIcon = global::AppCloudEditor.Droid.Resource.Attribute.searchHintIcon;
-			global::TEditor.Resource.Attribute.searchIcon = global::AppCloudEditor.Droid.Resource.Attribute.searchIcon;
-			global::TEditor.Resource.Attribute.searchViewStyle = global::AppCloudEditor.Droid.Resource.Attribute.searchViewStyle;
-			global::TEditor.Resource.Attribute.seekBarStyle = global::AppCloudEditor.Droid.Resource.Attribute.seekBarStyle;
-			global::TEditor.Resource.Attribute.selectableItemBackground = global::AppCloudEditor.Droid.Resource.Attribute.selectableItemBackground;
-			global::TEditor.Resource.Attribute.selectableItemBackgroundBorderless = global::AppCloudEditor.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::TEditor.Resource.Attribute.showAsAction = global::AppCloudEditor.Droid.Resource.Attribute.showAsAction;
-			global::TEditor.Resource.Attribute.showDividers = global::AppCloudEditor.Droid.Resource.Attribute.showDividers;
-			global::TEditor.Resource.Attribute.showText = global::AppCloudEditor.Droid.Resource.Attribute.showText;
-			global::TEditor.Resource.Attribute.singleChoiceItemLayout = global::AppCloudEditor.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::TEditor.Resource.Attribute.spinBars = global::AppCloudEditor.Droid.Resource.Attribute.spinBars;
-			global::TEditor.Resource.Attribute.spinnerDropDownItemStyle = global::AppCloudEditor.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::TEditor.Resource.Attribute.spinnerStyle = global::AppCloudEditor.Droid.Resource.Attribute.spinnerStyle;
-			global::TEditor.Resource.Attribute.splitTrack = global::AppCloudEditor.Droid.Resource.Attribute.splitTrack;
-			global::TEditor.Resource.Attribute.srcCompat = global::AppCloudEditor.Droid.Resource.Attribute.srcCompat;
-			global::TEditor.Resource.Attribute.state_above_anchor = global::AppCloudEditor.Droid.Resource.Attribute.state_above_anchor;
-			global::TEditor.Resource.Attribute.submitBackground = global::AppCloudEditor.Droid.Resource.Attribute.submitBackground;
-			global::TEditor.Resource.Attribute.subtitle = global::AppCloudEditor.Droid.Resource.Attribute.subtitle;
-			global::TEditor.Resource.Attribute.subtitleTextAppearance = global::AppCloudEditor.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::TEditor.Resource.Attribute.subtitleTextColor = global::AppCloudEditor.Droid.Resource.Attribute.subtitleTextColor;
-			global::TEditor.Resource.Attribute.subtitleTextStyle = global::AppCloudEditor.Droid.Resource.Attribute.subtitleTextStyle;
-			global::TEditor.Resource.Attribute.suggestionRowLayout = global::AppCloudEditor.Droid.Resource.Attribute.suggestionRowLayout;
-			global::TEditor.Resource.Attribute.switchMinWidth = global::AppCloudEditor.Droid.Resource.Attribute.switchMinWidth;
-			global::TEditor.Resource.Attribute.switchPadding = global::AppCloudEditor.Droid.Resource.Attribute.switchPadding;
-			global::TEditor.Resource.Attribute.switchStyle = global::AppCloudEditor.Droid.Resource.Attribute.switchStyle;
-			global::TEditor.Resource.Attribute.switchTextAppearance = global::AppCloudEditor.Droid.Resource.Attribute.switchTextAppearance;
-			global::TEditor.Resource.Attribute.textAllCaps = global::AppCloudEditor.Droid.Resource.Attribute.textAllCaps;
-			global::TEditor.Resource.Attribute.textAppearanceLargePopupMenu = global::AppCloudEditor.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::TEditor.Resource.Attribute.textAppearanceListItem = global::AppCloudEditor.Droid.Resource.Attribute.textAppearanceListItem;
-			global::TEditor.Resource.Attribute.textAppearanceListItemSmall = global::AppCloudEditor.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::TEditor.Resource.Attribute.textAppearanceSearchResultSubtitle = global::AppCloudEditor.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::TEditor.Resource.Attribute.textAppearanceSearchResultTitle = global::AppCloudEditor.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::TEditor.Resource.Attribute.textAppearanceSmallPopupMenu = global::AppCloudEditor.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::TEditor.Resource.Attribute.textColorAlertDialogListItem = global::AppCloudEditor.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::TEditor.Resource.Attribute.textColorSearchUrl = global::AppCloudEditor.Droid.Resource.Attribute.textColorSearchUrl;
-			global::TEditor.Resource.Attribute.theme = global::AppCloudEditor.Droid.Resource.Attribute.theme;
-			global::TEditor.Resource.Attribute.thickness = global::AppCloudEditor.Droid.Resource.Attribute.thickness;
-			global::TEditor.Resource.Attribute.thumbTextPadding = global::AppCloudEditor.Droid.Resource.Attribute.thumbTextPadding;
-			global::TEditor.Resource.Attribute.title = global::AppCloudEditor.Droid.Resource.Attribute.title;
-			global::TEditor.Resource.Attribute.titleMarginBottom = global::AppCloudEditor.Droid.Resource.Attribute.titleMarginBottom;
-			global::TEditor.Resource.Attribute.titleMarginEnd = global::AppCloudEditor.Droid.Resource.Attribute.titleMarginEnd;
-			global::TEditor.Resource.Attribute.titleMarginStart = global::AppCloudEditor.Droid.Resource.Attribute.titleMarginStart;
-			global::TEditor.Resource.Attribute.titleMarginTop = global::AppCloudEditor.Droid.Resource.Attribute.titleMarginTop;
-			global::TEditor.Resource.Attribute.titleMargins = global::AppCloudEditor.Droid.Resource.Attribute.titleMargins;
-			global::TEditor.Resource.Attribute.titleTextAppearance = global::AppCloudEditor.Droid.Resource.Attribute.titleTextAppearance;
-			global::TEditor.Resource.Attribute.titleTextColor = global::AppCloudEditor.Droid.Resource.Attribute.titleTextColor;
-			global::TEditor.Resource.Attribute.titleTextStyle = global::AppCloudEditor.Droid.Resource.Attribute.titleTextStyle;
-			global::TEditor.Resource.Attribute.toolbarNavigationButtonStyle = global::AppCloudEditor.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::TEditor.Resource.Attribute.toolbarStyle = global::AppCloudEditor.Droid.Resource.Attribute.toolbarStyle;
-			global::TEditor.Resource.Attribute.track = global::AppCloudEditor.Droid.Resource.Attribute.track;
-			global::TEditor.Resource.Attribute.voiceIcon = global::AppCloudEditor.Droid.Resource.Attribute.voiceIcon;
-			global::TEditor.Resource.Attribute.windowActionBar = global::AppCloudEditor.Droid.Resource.Attribute.windowActionBar;
-			global::TEditor.Resource.Attribute.windowActionBarOverlay = global::AppCloudEditor.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::TEditor.Resource.Attribute.windowActionModeOverlay = global::AppCloudEditor.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::TEditor.Resource.Attribute.windowFixedHeightMajor = global::AppCloudEditor.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::TEditor.Resource.Attribute.windowFixedHeightMinor = global::AppCloudEditor.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::TEditor.Resource.Attribute.windowFixedWidthMajor = global::AppCloudEditor.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::TEditor.Resource.Attribute.windowFixedWidthMinor = global::AppCloudEditor.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::TEditor.Resource.Attribute.windowMinWidthMajor = global::AppCloudEditor.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::TEditor.Resource.Attribute.windowMinWidthMinor = global::AppCloudEditor.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::TEditor.Resource.Attribute.windowNoTitle = global::AppCloudEditor.Droid.Resource.Attribute.windowNoTitle;
-			global::TEditor.Resource.Boolean.abc_action_bar_embed_tabs = global::AppCloudEditor.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::TEditor.Resource.Boolean.abc_allow_stacked_button_bar = global::AppCloudEditor.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::TEditor.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::AppCloudEditor.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::TEditor.Resource.Color.abc_background_cache_hint_selector_material_dark = global::AppCloudEditor.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::TEditor.Resource.Color.abc_background_cache_hint_selector_material_light = global::AppCloudEditor.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::TEditor.Resource.Color.abc_color_highlight_material = global::AppCloudEditor.Droid.Resource.Color.abc_color_highlight_material;
-			global::TEditor.Resource.Color.abc_input_method_navigation_guard = global::AppCloudEditor.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::TEditor.Resource.Color.abc_primary_text_disable_only_material_dark = global::AppCloudEditor.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::TEditor.Resource.Color.abc_primary_text_disable_only_material_light = global::AppCloudEditor.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::TEditor.Resource.Color.abc_primary_text_material_dark = global::AppCloudEditor.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::TEditor.Resource.Color.abc_primary_text_material_light = global::AppCloudEditor.Droid.Resource.Color.abc_primary_text_material_light;
-			global::TEditor.Resource.Color.abc_search_url_text = global::AppCloudEditor.Droid.Resource.Color.abc_search_url_text;
-			global::TEditor.Resource.Color.abc_search_url_text_normal = global::AppCloudEditor.Droid.Resource.Color.abc_search_url_text_normal;
-			global::TEditor.Resource.Color.abc_search_url_text_pressed = global::AppCloudEditor.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::TEditor.Resource.Color.abc_search_url_text_selected = global::AppCloudEditor.Droid.Resource.Color.abc_search_url_text_selected;
-			global::TEditor.Resource.Color.abc_secondary_text_material_dark = global::AppCloudEditor.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::TEditor.Resource.Color.abc_secondary_text_material_light = global::AppCloudEditor.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::TEditor.Resource.Color.accent_material_dark = global::AppCloudEditor.Droid.Resource.Color.accent_material_dark;
-			global::TEditor.Resource.Color.accent_material_light = global::AppCloudEditor.Droid.Resource.Color.accent_material_light;
-			global::TEditor.Resource.Color.background_floating_material_dark = global::AppCloudEditor.Droid.Resource.Color.background_floating_material_dark;
-			global::TEditor.Resource.Color.background_floating_material_light = global::AppCloudEditor.Droid.Resource.Color.background_floating_material_light;
-			global::TEditor.Resource.Color.background_material_dark = global::AppCloudEditor.Droid.Resource.Color.background_material_dark;
-			global::TEditor.Resource.Color.background_material_light = global::AppCloudEditor.Droid.Resource.Color.background_material_light;
-			global::TEditor.Resource.Color.bright_foreground_disabled_material_dark = global::AppCloudEditor.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::TEditor.Resource.Color.bright_foreground_disabled_material_light = global::AppCloudEditor.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::TEditor.Resource.Color.bright_foreground_inverse_material_dark = global::AppCloudEditor.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::TEditor.Resource.Color.bright_foreground_inverse_material_light = global::AppCloudEditor.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::TEditor.Resource.Color.bright_foreground_material_dark = global::AppCloudEditor.Droid.Resource.Color.bright_foreground_material_dark;
-			global::TEditor.Resource.Color.bright_foreground_material_light = global::AppCloudEditor.Droid.Resource.Color.bright_foreground_material_light;
-			global::TEditor.Resource.Color.button_material_dark = global::AppCloudEditor.Droid.Resource.Color.button_material_dark;
-			global::TEditor.Resource.Color.button_material_light = global::AppCloudEditor.Droid.Resource.Color.button_material_light;
-			global::TEditor.Resource.Color.dim_foreground_disabled_material_dark = global::AppCloudEditor.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::TEditor.Resource.Color.dim_foreground_disabled_material_light = global::AppCloudEditor.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::TEditor.Resource.Color.dim_foreground_material_dark = global::AppCloudEditor.Droid.Resource.Color.dim_foreground_material_dark;
-			global::TEditor.Resource.Color.dim_foreground_material_light = global::AppCloudEditor.Droid.Resource.Color.dim_foreground_material_light;
-			global::TEditor.Resource.Color.foreground_material_dark = global::AppCloudEditor.Droid.Resource.Color.foreground_material_dark;
-			global::TEditor.Resource.Color.foreground_material_light = global::AppCloudEditor.Droid.Resource.Color.foreground_material_light;
-			global::TEditor.Resource.Color.highlighted_text_material_dark = global::AppCloudEditor.Droid.Resource.Color.highlighted_text_material_dark;
-			global::TEditor.Resource.Color.highlighted_text_material_light = global::AppCloudEditor.Droid.Resource.Color.highlighted_text_material_light;
-			global::TEditor.Resource.Color.material_blue_grey_800 = global::AppCloudEditor.Droid.Resource.Color.material_blue_grey_800;
-			global::TEditor.Resource.Color.material_blue_grey_900 = global::AppCloudEditor.Droid.Resource.Color.material_blue_grey_900;
-			global::TEditor.Resource.Color.material_blue_grey_950 = global::AppCloudEditor.Droid.Resource.Color.material_blue_grey_950;
-			global::TEditor.Resource.Color.material_deep_teal_200 = global::AppCloudEditor.Droid.Resource.Color.material_deep_teal_200;
-			global::TEditor.Resource.Color.material_deep_teal_500 = global::AppCloudEditor.Droid.Resource.Color.material_deep_teal_500;
-			global::TEditor.Resource.Color.material_grey_100 = global::AppCloudEditor.Droid.Resource.Color.material_grey_100;
-			global::TEditor.Resource.Color.material_grey_300 = global::AppCloudEditor.Droid.Resource.Color.material_grey_300;
-			global::TEditor.Resource.Color.material_grey_50 = global::AppCloudEditor.Droid.Resource.Color.material_grey_50;
-			global::TEditor.Resource.Color.material_grey_600 = global::AppCloudEditor.Droid.Resource.Color.material_grey_600;
-			global::TEditor.Resource.Color.material_grey_800 = global::AppCloudEditor.Droid.Resource.Color.material_grey_800;
-			global::TEditor.Resource.Color.material_grey_850 = global::AppCloudEditor.Droid.Resource.Color.material_grey_850;
-			global::TEditor.Resource.Color.material_grey_900 = global::AppCloudEditor.Droid.Resource.Color.material_grey_900;
-			global::TEditor.Resource.Color.primary_dark_material_dark = global::AppCloudEditor.Droid.Resource.Color.primary_dark_material_dark;
-			global::TEditor.Resource.Color.primary_dark_material_light = global::AppCloudEditor.Droid.Resource.Color.primary_dark_material_light;
-			global::TEditor.Resource.Color.primary_material_dark = global::AppCloudEditor.Droid.Resource.Color.primary_material_dark;
-			global::TEditor.Resource.Color.primary_material_light = global::AppCloudEditor.Droid.Resource.Color.primary_material_light;
-			global::TEditor.Resource.Color.primary_text_default_material_dark = global::AppCloudEditor.Droid.Resource.Color.primary_text_default_material_dark;
-			global::TEditor.Resource.Color.primary_text_default_material_light = global::AppCloudEditor.Droid.Resource.Color.primary_text_default_material_light;
-			global::TEditor.Resource.Color.primary_text_disabled_material_dark = global::AppCloudEditor.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::TEditor.Resource.Color.primary_text_disabled_material_light = global::AppCloudEditor.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::TEditor.Resource.Color.ripple_material_dark = global::AppCloudEditor.Droid.Resource.Color.ripple_material_dark;
-			global::TEditor.Resource.Color.ripple_material_light = global::AppCloudEditor.Droid.Resource.Color.ripple_material_light;
-			global::TEditor.Resource.Color.secondary_text_default_material_dark = global::AppCloudEditor.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::TEditor.Resource.Color.secondary_text_default_material_light = global::AppCloudEditor.Droid.Resource.Color.secondary_text_default_material_light;
-			global::TEditor.Resource.Color.secondary_text_disabled_material_dark = global::AppCloudEditor.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::TEditor.Resource.Color.secondary_text_disabled_material_light = global::AppCloudEditor.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::TEditor.Resource.Color.switch_thumb_disabled_material_dark = global::AppCloudEditor.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::TEditor.Resource.Color.switch_thumb_disabled_material_light = global::AppCloudEditor.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::TEditor.Resource.Color.switch_thumb_material_dark = global::AppCloudEditor.Droid.Resource.Color.switch_thumb_material_dark;
-			global::TEditor.Resource.Color.switch_thumb_material_light = global::AppCloudEditor.Droid.Resource.Color.switch_thumb_material_light;
-			global::TEditor.Resource.Color.switch_thumb_normal_material_dark = global::AppCloudEditor.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::TEditor.Resource.Color.switch_thumb_normal_material_light = global::AppCloudEditor.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::TEditor.Resource.Dimension.abc_action_bar_content_inset_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::TEditor.Resource.Dimension.abc_action_bar_default_height_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::TEditor.Resource.Dimension.abc_action_bar_default_padding_end_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::TEditor.Resource.Dimension.abc_action_bar_default_padding_start_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::TEditor.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::TEditor.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::TEditor.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::TEditor.Resource.Dimension.abc_action_bar_stacked_max_height = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::TEditor.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::TEditor.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::TEditor.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::TEditor.Resource.Dimension.abc_action_button_min_height_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::TEditor.Resource.Dimension.abc_action_button_min_width_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::TEditor.Resource.Dimension.abc_action_button_min_width_overflow_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::TEditor.Resource.Dimension.abc_alert_dialog_button_bar_height = global::AppCloudEditor.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::TEditor.Resource.Dimension.abc_button_inset_horizontal_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::TEditor.Resource.Dimension.abc_button_inset_vertical_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::TEditor.Resource.Dimension.abc_button_padding_horizontal_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::TEditor.Resource.Dimension.abc_button_padding_vertical_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::TEditor.Resource.Dimension.abc_config_prefDialogWidth = global::AppCloudEditor.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::TEditor.Resource.Dimension.abc_control_corner_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_control_corner_material;
-			global::TEditor.Resource.Dimension.abc_control_inset_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_control_inset_material;
-			global::TEditor.Resource.Dimension.abc_control_padding_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_control_padding_material;
-			global::TEditor.Resource.Dimension.abc_dialog_fixed_height_major = global::AppCloudEditor.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::TEditor.Resource.Dimension.abc_dialog_fixed_height_minor = global::AppCloudEditor.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::TEditor.Resource.Dimension.abc_dialog_fixed_width_major = global::AppCloudEditor.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::TEditor.Resource.Dimension.abc_dialog_fixed_width_minor = global::AppCloudEditor.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::TEditor.Resource.Dimension.abc_dialog_min_width_major = global::AppCloudEditor.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::TEditor.Resource.Dimension.abc_dialog_min_width_minor = global::AppCloudEditor.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::TEditor.Resource.Dimension.abc_dialog_padding_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::TEditor.Resource.Dimension.abc_dialog_padding_top_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::TEditor.Resource.Dimension.abc_disabled_alpha_material_dark = global::AppCloudEditor.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::TEditor.Resource.Dimension.abc_disabled_alpha_material_light = global::AppCloudEditor.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::TEditor.Resource.Dimension.abc_dropdownitem_icon_width = global::AppCloudEditor.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::TEditor.Resource.Dimension.abc_dropdownitem_text_padding_left = global::AppCloudEditor.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::TEditor.Resource.Dimension.abc_dropdownitem_text_padding_right = global::AppCloudEditor.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::TEditor.Resource.Dimension.abc_edit_text_inset_bottom_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::TEditor.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::TEditor.Resource.Dimension.abc_edit_text_inset_top_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::TEditor.Resource.Dimension.abc_floating_window_z = global::AppCloudEditor.Droid.Resource.Dimension.abc_floating_window_z;
-			global::TEditor.Resource.Dimension.abc_list_item_padding_horizontal_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::TEditor.Resource.Dimension.abc_panel_menu_list_width = global::AppCloudEditor.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::TEditor.Resource.Dimension.abc_search_view_preferred_width = global::AppCloudEditor.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::TEditor.Resource.Dimension.abc_seekbar_track_background_height_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::TEditor.Resource.Dimension.abc_seekbar_track_progress_height_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::TEditor.Resource.Dimension.abc_select_dialog_padding_start_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::TEditor.Resource.Dimension.abc_switch_padding = global::AppCloudEditor.Droid.Resource.Dimension.abc_switch_padding;
-			global::TEditor.Resource.Dimension.abc_text_size_body_1_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::TEditor.Resource.Dimension.abc_text_size_body_2_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::TEditor.Resource.Dimension.abc_text_size_button_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::TEditor.Resource.Dimension.abc_text_size_caption_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::TEditor.Resource.Dimension.abc_text_size_display_1_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::TEditor.Resource.Dimension.abc_text_size_display_2_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::TEditor.Resource.Dimension.abc_text_size_display_3_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::TEditor.Resource.Dimension.abc_text_size_display_4_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::TEditor.Resource.Dimension.abc_text_size_headline_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::TEditor.Resource.Dimension.abc_text_size_large_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::TEditor.Resource.Dimension.abc_text_size_medium_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::TEditor.Resource.Dimension.abc_text_size_menu_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::TEditor.Resource.Dimension.abc_text_size_small_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::TEditor.Resource.Dimension.abc_text_size_subhead_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::TEditor.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::TEditor.Resource.Dimension.abc_text_size_title_material = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::TEditor.Resource.Dimension.abc_text_size_title_material_toolbar = global::AppCloudEditor.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::TEditor.Resource.Dimension.disabled_alpha_material_dark = global::AppCloudEditor.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::TEditor.Resource.Dimension.disabled_alpha_material_light = global::AppCloudEditor.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::TEditor.Resource.Dimension.highlight_alpha_material_colored = global::AppCloudEditor.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::TEditor.Resource.Dimension.highlight_alpha_material_dark = global::AppCloudEditor.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::TEditor.Resource.Dimension.highlight_alpha_material_light = global::AppCloudEditor.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::TEditor.Resource.Dimension.notification_large_icon_height = global::AppCloudEditor.Droid.Resource.Dimension.notification_large_icon_height;
-			global::TEditor.Resource.Dimension.notification_large_icon_width = global::AppCloudEditor.Droid.Resource.Dimension.notification_large_icon_width;
-			global::TEditor.Resource.Dimension.notification_subtext_size = global::AppCloudEditor.Droid.Resource.Dimension.notification_subtext_size;
-			global::TEditor.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_action_bar_item_background_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::TEditor.Resource.Drawable.abc_btn_borderless_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::TEditor.Resource.Drawable.abc_btn_check_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_check_material;
-			global::TEditor.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::TEditor.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::TEditor.Resource.Drawable.abc_btn_colored_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::TEditor.Resource.Drawable.abc_btn_default_mtrl_shape = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::TEditor.Resource.Drawable.abc_btn_radio_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::TEditor.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::TEditor.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::TEditor.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::TEditor.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::AppCloudEditor.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::TEditor.Resource.Drawable.abc_cab_background_internal_bg = global::AppCloudEditor.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::TEditor.Resource.Drawable.abc_cab_background_top_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::TEditor.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_control_background_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_control_background_material;
-			global::TEditor.Resource.Drawable.abc_edit_text_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_edit_text_material;
-			global::TEditor.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::TEditor.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::TEditor.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_ic_star_black_16dp = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::TEditor.Resource.Drawable.abc_ic_star_black_36dp = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::TEditor.Resource.Drawable.abc_ic_star_half_black_16dp = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::TEditor.Resource.Drawable.abc_ic_star_half_black_36dp = global::AppCloudEditor.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::TEditor.Resource.Drawable.abc_item_background_holo_dark = global::AppCloudEditor.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::TEditor.Resource.Drawable.abc_item_background_holo_light = global::AppCloudEditor.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::TEditor.Resource.Drawable.abc_list_divider_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_list_focused_holo = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::TEditor.Resource.Drawable.abc_list_longpressed_holo = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::TEditor.Resource.Drawable.abc_list_pressed_holo_dark = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::TEditor.Resource.Drawable.abc_list_pressed_holo_light = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::TEditor.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::TEditor.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::TEditor.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::TEditor.Resource.Drawable.abc_list_selector_disabled_holo_light = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::TEditor.Resource.Drawable.abc_list_selector_holo_dark = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::TEditor.Resource.Drawable.abc_list_selector_holo_light = global::AppCloudEditor.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::TEditor.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::AppCloudEditor.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::TEditor.Resource.Drawable.abc_popup_background_mtrl_mult = global::AppCloudEditor.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::TEditor.Resource.Drawable.abc_ratingbar_indicator_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::TEditor.Resource.Drawable.abc_ratingbar_small_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::TEditor.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::AppCloudEditor.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::TEditor.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::AppCloudEditor.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::TEditor.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_seekbar_thumb_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::TEditor.Resource.Drawable.abc_seekbar_track_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::TEditor.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::TEditor.Resource.Drawable.abc_spinner_textfield_background_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::TEditor.Resource.Drawable.abc_switch_thumb_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::TEditor.Resource.Drawable.abc_switch_track_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_tab_indicator_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::TEditor.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_text_cursor_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::TEditor.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::AppCloudEditor.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::TEditor.Resource.Drawable.abc_textfield_search_material = global::AppCloudEditor.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::TEditor.Resource.Drawable.MenuDiscard = global::AppCloudEditor.Droid.Resource.Drawable.MenuDiscard;
-			global::TEditor.Resource.Drawable.MenuSave = global::AppCloudEditor.Droid.Resource.Drawable.MenuSave;
-			global::TEditor.Resource.Drawable.notification_template_icon_bg = global::AppCloudEditor.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::TEditor.Resource.Drawable.ZSSbgcolor = global::AppCloudEditor.Droid.Resource.Drawable.ZSSbgcolor;
-			global::TEditor.Resource.Drawable.ZSSbold = global::AppCloudEditor.Droid.Resource.Drawable.ZSSbold;
-			global::TEditor.Resource.Drawable.ZSScenterjustify = global::AppCloudEditor.Droid.Resource.Drawable.ZSScenterjustify;
-			global::TEditor.Resource.Drawable.ZSSclearstyle = global::AppCloudEditor.Droid.Resource.Drawable.ZSSclearstyle;
-			global::TEditor.Resource.Drawable.ZSSforcejustify = global::AppCloudEditor.Droid.Resource.Drawable.ZSSforcejustify;
-			global::TEditor.Resource.Drawable.ZSSh1 = global::AppCloudEditor.Droid.Resource.Drawable.ZSSh1;
-			global::TEditor.Resource.Drawable.ZSSh2 = global::AppCloudEditor.Droid.Resource.Drawable.ZSSh2;
-			global::TEditor.Resource.Drawable.ZSSh3 = global::AppCloudEditor.Droid.Resource.Drawable.ZSSh3;
-			global::TEditor.Resource.Drawable.ZSSh4 = global::AppCloudEditor.Droid.Resource.Drawable.ZSSh4;
-			global::TEditor.Resource.Drawable.ZSSh5 = global::AppCloudEditor.Droid.Resource.Drawable.ZSSh5;
-			global::TEditor.Resource.Drawable.ZSSh6 = global::AppCloudEditor.Droid.Resource.Drawable.ZSSh6;
-			global::TEditor.Resource.Drawable.ZSShorizontalrule = global::AppCloudEditor.Droid.Resource.Drawable.ZSShorizontalrule;
-			global::TEditor.Resource.Drawable.ZSSimage = global::AppCloudEditor.Droid.Resource.Drawable.ZSSimage;
-			global::TEditor.Resource.Drawable.ZSSindent = global::AppCloudEditor.Droid.Resource.Drawable.ZSSindent;
-			global::TEditor.Resource.Drawable.ZSSinsertkeyword = global::AppCloudEditor.Droid.Resource.Drawable.ZSSinsertkeyword;
-			global::TEditor.Resource.Drawable.ZSSitalic = global::AppCloudEditor.Droid.Resource.Drawable.ZSSitalic;
-			global::TEditor.Resource.Drawable.ZSSkeyboard = global::AppCloudEditor.Droid.Resource.Drawable.ZSSkeyboard;
-			global::TEditor.Resource.Drawable.ZSSleftjustify = global::AppCloudEditor.Droid.Resource.Drawable.ZSSleftjustify;
-			global::TEditor.Resource.Drawable.ZSSlink = global::AppCloudEditor.Droid.Resource.Drawable.ZSSlink;
-			global::TEditor.Resource.Drawable.ZSSorderedlist = global::AppCloudEditor.Droid.Resource.Drawable.ZSSorderedlist;
-			global::TEditor.Resource.Drawable.ZSSoutdent = global::AppCloudEditor.Droid.Resource.Drawable.ZSSoutdent;
-			global::TEditor.Resource.Drawable.ZSSparagraph = global::AppCloudEditor.Droid.Resource.Drawable.ZSSparagraph;
-			global::TEditor.Resource.Drawable.ZSSpicker = global::AppCloudEditor.Droid.Resource.Drawable.ZSSpicker;
-			global::TEditor.Resource.Drawable.ZSSquicklink = global::AppCloudEditor.Droid.Resource.Drawable.ZSSquicklink;
-			global::TEditor.Resource.Drawable.ZSSredo = global::AppCloudEditor.Droid.Resource.Drawable.ZSSredo;
-			global::TEditor.Resource.Drawable.ZSSrightjustify = global::AppCloudEditor.Droid.Resource.Drawable.ZSSrightjustify;
-			global::TEditor.Resource.Drawable.ZSSstrikethrough = global::AppCloudEditor.Droid.Resource.Drawable.ZSSstrikethrough;
-			global::TEditor.Resource.Drawable.ZSSsubscript = global::AppCloudEditor.Droid.Resource.Drawable.ZSSsubscript;
-			global::TEditor.Resource.Drawable.ZSSsuperscript = global::AppCloudEditor.Droid.Resource.Drawable.ZSSsuperscript;
-			global::TEditor.Resource.Drawable.ZSStable = global::AppCloudEditor.Droid.Resource.Drawable.ZSStable;
-			global::TEditor.Resource.Drawable.ZSStextcolor = global::AppCloudEditor.Droid.Resource.Drawable.ZSStextcolor;
-			global::TEditor.Resource.Drawable.ZSSunderline = global::AppCloudEditor.Droid.Resource.Drawable.ZSSunderline;
-			global::TEditor.Resource.Drawable.ZSSundo = global::AppCloudEditor.Droid.Resource.Drawable.ZSSundo;
-			global::TEditor.Resource.Drawable.ZSSunlink = global::AppCloudEditor.Droid.Resource.Drawable.ZSSunlink;
-			global::TEditor.Resource.Drawable.ZSSunorderedlist = global::AppCloudEditor.Droid.Resource.Drawable.ZSSunorderedlist;
-			global::TEditor.Resource.Drawable.ZSSviewsource = global::AppCloudEditor.Droid.Resource.Drawable.ZSSviewsource;
-			global::TEditor.Resource.Id.EditorWebView = global::AppCloudEditor.Droid.Resource.Id.EditorWebView;
-			global::TEditor.Resource.Id.RootRelativeLayout = global::AppCloudEditor.Droid.Resource.Id.RootRelativeLayout;
-			global::TEditor.Resource.Id.ToolbarItemsLayout = global::AppCloudEditor.Droid.Resource.Id.ToolbarItemsLayout;
-			global::TEditor.Resource.Id.ToolbarLayout = global::AppCloudEditor.Droid.Resource.Id.ToolbarLayout;
-			global::TEditor.Resource.Id.TopToolbar = global::AppCloudEditor.Droid.Resource.Id.TopToolbar;
-			global::TEditor.Resource.Id.action0 = global::AppCloudEditor.Droid.Resource.Id.action0;
-			global::TEditor.Resource.Id.action_bar = global::AppCloudEditor.Droid.Resource.Id.action_bar;
-			global::TEditor.Resource.Id.action_bar_activity_content = global::AppCloudEditor.Droid.Resource.Id.action_bar_activity_content;
-			global::TEditor.Resource.Id.action_bar_container = global::AppCloudEditor.Droid.Resource.Id.action_bar_container;
-			global::TEditor.Resource.Id.action_bar_root = global::AppCloudEditor.Droid.Resource.Id.action_bar_root;
-			global::TEditor.Resource.Id.action_bar_spinner = global::AppCloudEditor.Droid.Resource.Id.action_bar_spinner;
-			global::TEditor.Resource.Id.action_bar_subtitle = global::AppCloudEditor.Droid.Resource.Id.action_bar_subtitle;
-			global::TEditor.Resource.Id.action_bar_title = global::AppCloudEditor.Droid.Resource.Id.action_bar_title;
-			global::TEditor.Resource.Id.action_context_bar = global::AppCloudEditor.Droid.Resource.Id.action_context_bar;
-			global::TEditor.Resource.Id.action_divider = global::AppCloudEditor.Droid.Resource.Id.action_divider;
-			global::TEditor.Resource.Id.action_menu_divider = global::AppCloudEditor.Droid.Resource.Id.action_menu_divider;
-			global::TEditor.Resource.Id.action_menu_presenter = global::AppCloudEditor.Droid.Resource.Id.action_menu_presenter;
-			global::TEditor.Resource.Id.action_mode_bar = global::AppCloudEditor.Droid.Resource.Id.action_mode_bar;
-			global::TEditor.Resource.Id.action_mode_bar_stub = global::AppCloudEditor.Droid.Resource.Id.action_mode_bar_stub;
-			global::TEditor.Resource.Id.action_mode_close_button = global::AppCloudEditor.Droid.Resource.Id.action_mode_close_button;
-			global::TEditor.Resource.Id.activity_chooser_view_content = global::AppCloudEditor.Droid.Resource.Id.activity_chooser_view_content;
-			global::TEditor.Resource.Id.alertTitle = global::AppCloudEditor.Droid.Resource.Id.alertTitle;
-			global::TEditor.Resource.Id.buttonPanel = global::AppCloudEditor.Droid.Resource.Id.buttonPanel;
-			global::TEditor.Resource.Id.cancel_action = global::AppCloudEditor.Droid.Resource.Id.cancel_action;
-			global::TEditor.Resource.Id.checkbox = global::AppCloudEditor.Droid.Resource.Id.checkbox;
-			global::TEditor.Resource.Id.chronometer = global::AppCloudEditor.Droid.Resource.Id.chronometer;
-			global::TEditor.Resource.Id.color_picker_view = global::AppCloudEditor.Droid.Resource.Id.color_picker_view;
-			global::TEditor.Resource.Id.contentPanel = global::AppCloudEditor.Droid.Resource.Id.contentPanel;
-			global::TEditor.Resource.Id.custom = global::AppCloudEditor.Droid.Resource.Id.custom;
-			global::TEditor.Resource.Id.customPanel = global::AppCloudEditor.Droid.Resource.Id.customPanel;
-			global::TEditor.Resource.Id.decor_content_parent = global::AppCloudEditor.Droid.Resource.Id.decor_content_parent;
-			global::TEditor.Resource.Id.default_activity_button = global::AppCloudEditor.Droid.Resource.Id.default_activity_button;
-			global::TEditor.Resource.Id.edit_query = global::AppCloudEditor.Droid.Resource.Id.edit_query;
-			global::TEditor.Resource.Id.end = global::AppCloudEditor.Droid.Resource.Id.end;
-			global::TEditor.Resource.Id.end_padder = global::AppCloudEditor.Droid.Resource.Id.end_padder;
-			global::TEditor.Resource.Id.expand_activities_button = global::AppCloudEditor.Droid.Resource.Id.expand_activities_button;
-			global::TEditor.Resource.Id.expanded_menu = global::AppCloudEditor.Droid.Resource.Id.expanded_menu;
-			global::TEditor.Resource.Id.home = global::AppCloudEditor.Droid.Resource.Id.home;
-			global::TEditor.Resource.Id.icon = global::AppCloudEditor.Droid.Resource.Id.icon;
-			global::TEditor.Resource.Id.image = global::AppCloudEditor.Droid.Resource.Id.image;
-			global::TEditor.Resource.Id.info = global::AppCloudEditor.Droid.Resource.Id.info;
-			global::TEditor.Resource.Id.line1 = global::AppCloudEditor.Droid.Resource.Id.line1;
-			global::TEditor.Resource.Id.line3 = global::AppCloudEditor.Droid.Resource.Id.line3;
-			global::TEditor.Resource.Id.listMode = global::AppCloudEditor.Droid.Resource.Id.listMode;
-			global::TEditor.Resource.Id.list_item = global::AppCloudEditor.Droid.Resource.Id.list_item;
-			global::TEditor.Resource.Id.media_actions = global::AppCloudEditor.Droid.Resource.Id.media_actions;
-			global::TEditor.Resource.Id.menu_cancel = global::AppCloudEditor.Droid.Resource.Id.menu_cancel;
-			global::TEditor.Resource.Id.menu_done = global::AppCloudEditor.Droid.Resource.Id.menu_done;
-			global::TEditor.Resource.Id.multiply = global::AppCloudEditor.Droid.Resource.Id.multiply;
-			global::TEditor.Resource.Id.new_color_panel = global::AppCloudEditor.Droid.Resource.Id.new_color_panel;
-			global::TEditor.Resource.Id.none = global::AppCloudEditor.Droid.Resource.Id.none;
-			global::TEditor.Resource.Id.normal = global::AppCloudEditor.Droid.Resource.Id.normal;
-			global::TEditor.Resource.Id.old_color_panel = global::AppCloudEditor.Droid.Resource.Id.old_color_panel;
-			global::TEditor.Resource.Id.parentPanel = global::AppCloudEditor.Droid.Resource.Id.parentPanel;
-			global::TEditor.Resource.Id.progress_circular = global::AppCloudEditor.Droid.Resource.Id.progress_circular;
-			global::TEditor.Resource.Id.progress_horizontal = global::AppCloudEditor.Droid.Resource.Id.progress_horizontal;
-			global::TEditor.Resource.Id.radio = global::AppCloudEditor.Droid.Resource.Id.radio;
-			global::TEditor.Resource.Id.screen = global::AppCloudEditor.Droid.Resource.Id.screen;
-			global::TEditor.Resource.Id.scrollIndicatorDown = global::AppCloudEditor.Droid.Resource.Id.scrollIndicatorDown;
-			global::TEditor.Resource.Id.scrollIndicatorUp = global::AppCloudEditor.Droid.Resource.Id.scrollIndicatorUp;
-			global::TEditor.Resource.Id.scrollView = global::AppCloudEditor.Droid.Resource.Id.scrollView;
-			global::TEditor.Resource.Id.search_badge = global::AppCloudEditor.Droid.Resource.Id.search_badge;
-			global::TEditor.Resource.Id.search_bar = global::AppCloudEditor.Droid.Resource.Id.search_bar;
-			global::TEditor.Resource.Id.search_button = global::AppCloudEditor.Droid.Resource.Id.search_button;
-			global::TEditor.Resource.Id.search_close_btn = global::AppCloudEditor.Droid.Resource.Id.search_close_btn;
-			global::TEditor.Resource.Id.search_edit_frame = global::AppCloudEditor.Droid.Resource.Id.search_edit_frame;
-			global::TEditor.Resource.Id.search_go_btn = global::AppCloudEditor.Droid.Resource.Id.search_go_btn;
-			global::TEditor.Resource.Id.search_mag_icon = global::AppCloudEditor.Droid.Resource.Id.search_mag_icon;
-			global::TEditor.Resource.Id.search_plate = global::AppCloudEditor.Droid.Resource.Id.search_plate;
-			global::TEditor.Resource.Id.search_src_text = global::AppCloudEditor.Droid.Resource.Id.search_src_text;
-			global::TEditor.Resource.Id.search_voice_btn = global::AppCloudEditor.Droid.Resource.Id.search_voice_btn;
-			global::TEditor.Resource.Id.select_dialog_listview = global::AppCloudEditor.Droid.Resource.Id.select_dialog_listview;
-			global::TEditor.Resource.Id.shortcut = global::AppCloudEditor.Droid.Resource.Id.shortcut;
-			global::TEditor.Resource.Id.spacer = global::AppCloudEditor.Droid.Resource.Id.spacer;
-			global::TEditor.Resource.Id.split_action_bar = global::AppCloudEditor.Droid.Resource.Id.split_action_bar;
-			global::TEditor.Resource.Id.src_atop = global::AppCloudEditor.Droid.Resource.Id.src_atop;
-			global::TEditor.Resource.Id.src_in = global::AppCloudEditor.Droid.Resource.Id.src_in;
-			global::TEditor.Resource.Id.src_over = global::AppCloudEditor.Droid.Resource.Id.src_over;
-			global::TEditor.Resource.Id.status_bar_latest_event_content = global::AppCloudEditor.Droid.Resource.Id.status_bar_latest_event_content;
-			global::TEditor.Resource.Id.submit_area = global::AppCloudEditor.Droid.Resource.Id.submit_area;
-			global::TEditor.Resource.Id.tabMode = global::AppCloudEditor.Droid.Resource.Id.tabMode;
-			global::TEditor.Resource.Id.text = global::AppCloudEditor.Droid.Resource.Id.text;
-			global::TEditor.Resource.Id.text2 = global::AppCloudEditor.Droid.Resource.Id.text2;
-			global::TEditor.Resource.Id.textSpacerNoButtons = global::AppCloudEditor.Droid.Resource.Id.textSpacerNoButtons;
-			global::TEditor.Resource.Id.time = global::AppCloudEditor.Droid.Resource.Id.time;
-			global::TEditor.Resource.Id.title = global::AppCloudEditor.Droid.Resource.Id.title;
-			global::TEditor.Resource.Id.title_template = global::AppCloudEditor.Droid.Resource.Id.title_template;
-			global::TEditor.Resource.Id.topPanel = global::AppCloudEditor.Droid.Resource.Id.topPanel;
-			global::TEditor.Resource.Id.up = global::AppCloudEditor.Droid.Resource.Id.up;
-			global::TEditor.Resource.Id.wrap_content = global::AppCloudEditor.Droid.Resource.Id.wrap_content;
-			global::TEditor.Resource.Integer.abc_config_activityDefaultDur = global::AppCloudEditor.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::TEditor.Resource.Integer.abc_config_activityShortDur = global::AppCloudEditor.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::TEditor.Resource.Integer.cancel_button_image_alpha = global::AppCloudEditor.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::TEditor.Resource.Integer.status_bar_notification_info_maxnum = global::AppCloudEditor.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::TEditor.Resource.Layout.abc_action_bar_title_item = global::AppCloudEditor.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::TEditor.Resource.Layout.abc_action_bar_up_container = global::AppCloudEditor.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::TEditor.Resource.Layout.abc_action_menu_item_layout = global::AppCloudEditor.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::TEditor.Resource.Layout.abc_action_menu_layout = global::AppCloudEditor.Droid.Resource.Layout.abc_action_menu_layout;
-			global::TEditor.Resource.Layout.abc_action_mode_bar = global::AppCloudEditor.Droid.Resource.Layout.abc_action_mode_bar;
-			global::TEditor.Resource.Layout.abc_action_mode_close_item_material = global::AppCloudEditor.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::TEditor.Resource.Layout.abc_activity_chooser_view = global::AppCloudEditor.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::TEditor.Resource.Layout.abc_activity_chooser_view_list_item = global::AppCloudEditor.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::TEditor.Resource.Layout.abc_alert_dialog_button_bar_material = global::AppCloudEditor.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::TEditor.Resource.Layout.abc_alert_dialog_material = global::AppCloudEditor.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::TEditor.Resource.Layout.abc_dialog_title_material = global::AppCloudEditor.Droid.Resource.Layout.abc_dialog_title_material;
-			global::TEditor.Resource.Layout.abc_expanded_menu_layout = global::AppCloudEditor.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::TEditor.Resource.Layout.abc_list_menu_item_checkbox = global::AppCloudEditor.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::TEditor.Resource.Layout.abc_list_menu_item_icon = global::AppCloudEditor.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::TEditor.Resource.Layout.abc_list_menu_item_layout = global::AppCloudEditor.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::TEditor.Resource.Layout.abc_list_menu_item_radio = global::AppCloudEditor.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::TEditor.Resource.Layout.abc_popup_menu_item_layout = global::AppCloudEditor.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::TEditor.Resource.Layout.abc_screen_content_include = global::AppCloudEditor.Droid.Resource.Layout.abc_screen_content_include;
-			global::TEditor.Resource.Layout.abc_screen_simple = global::AppCloudEditor.Droid.Resource.Layout.abc_screen_simple;
-			global::TEditor.Resource.Layout.abc_screen_simple_overlay_action_mode = global::AppCloudEditor.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::TEditor.Resource.Layout.abc_screen_toolbar = global::AppCloudEditor.Droid.Resource.Layout.abc_screen_toolbar;
-			global::TEditor.Resource.Layout.abc_search_dropdown_item_icons_2line = global::AppCloudEditor.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::TEditor.Resource.Layout.abc_search_view = global::AppCloudEditor.Droid.Resource.Layout.abc_search_view;
-			global::TEditor.Resource.Layout.abc_select_dialog_material = global::AppCloudEditor.Droid.Resource.Layout.abc_select_dialog_material;
-			global::TEditor.Resource.Layout.dialog_color_picker = global::AppCloudEditor.Droid.Resource.Layout.dialog_color_picker;
-			global::TEditor.Resource.Layout.notification_media_action = global::AppCloudEditor.Droid.Resource.Layout.notification_media_action;
-			global::TEditor.Resource.Layout.notification_media_cancel_action = global::AppCloudEditor.Droid.Resource.Layout.notification_media_cancel_action;
-			global::TEditor.Resource.Layout.notification_template_big_media = global::AppCloudEditor.Droid.Resource.Layout.notification_template_big_media;
-			global::TEditor.Resource.Layout.notification_template_big_media_narrow = global::AppCloudEditor.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::TEditor.Resource.Layout.notification_template_media = global::AppCloudEditor.Droid.Resource.Layout.notification_template_media;
-			global::TEditor.Resource.Layout.notification_template_part_chronometer = global::AppCloudEditor.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::TEditor.Resource.Layout.notification_template_part_time = global::AppCloudEditor.Droid.Resource.Layout.notification_template_part_time;
-			global::TEditor.Resource.Layout.select_dialog_item_material = global::AppCloudEditor.Droid.Resource.Layout.select_dialog_item_material;
-			global::TEditor.Resource.Layout.select_dialog_multichoice_material = global::AppCloudEditor.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::TEditor.Resource.Layout.select_dialog_singlechoice_material = global::AppCloudEditor.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::TEditor.Resource.Layout.support_simple_spinner_dropdown_item = global::AppCloudEditor.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::TEditor.Resource.Layout.TEditorActivity = global::AppCloudEditor.Droid.Resource.Layout.TEditorActivity;
-			global::TEditor.Resource.Menu.TopToolbarMenu = global::AppCloudEditor.Droid.Resource.Menu.TopToolbarMenu;
-			global::TEditor.Resource.String.abc_action_bar_home_description = global::AppCloudEditor.Droid.Resource.String.abc_action_bar_home_description;
-			global::TEditor.Resource.String.abc_action_bar_up_description = global::AppCloudEditor.Droid.Resource.String.abc_action_bar_up_description;
-			global::TEditor.Resource.String.abc_action_menu_overflow_description = global::AppCloudEditor.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::TEditor.Resource.String.abc_action_mode_done = global::AppCloudEditor.Droid.Resource.String.abc_action_mode_done;
-			global::TEditor.Resource.String.abc_activity_chooser_view_see_all = global::AppCloudEditor.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::TEditor.Resource.String.abc_activitychooserview_choose_application = global::AppCloudEditor.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::TEditor.Resource.String.abc_capital_off = global::AppCloudEditor.Droid.Resource.String.abc_capital_off;
-			global::TEditor.Resource.String.abc_capital_on = global::AppCloudEditor.Droid.Resource.String.abc_capital_on;
-			global::TEditor.Resource.String.abc_search_hint = global::AppCloudEditor.Droid.Resource.String.abc_search_hint;
-			global::TEditor.Resource.String.abc_searchview_description_clear = global::AppCloudEditor.Droid.Resource.String.abc_searchview_description_clear;
-			global::TEditor.Resource.String.abc_searchview_description_query = global::AppCloudEditor.Droid.Resource.String.abc_searchview_description_query;
-			global::TEditor.Resource.String.abc_searchview_description_search = global::AppCloudEditor.Droid.Resource.String.abc_searchview_description_search;
-			global::TEditor.Resource.String.abc_searchview_description_submit = global::AppCloudEditor.Droid.Resource.String.abc_searchview_description_submit;
-			global::TEditor.Resource.String.abc_searchview_description_voice = global::AppCloudEditor.Droid.Resource.String.abc_searchview_description_voice;
-			global::TEditor.Resource.String.abc_shareactionprovider_share_with = global::AppCloudEditor.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::TEditor.Resource.String.abc_shareactionprovider_share_with_application = global::AppCloudEditor.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::TEditor.Resource.String.abc_toolbar_collapse_description = global::AppCloudEditor.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::TEditor.Resource.String.app_name = global::AppCloudEditor.Droid.Resource.String.app_name;
-			global::TEditor.Resource.String.button_color_picker_alpha = global::AppCloudEditor.Droid.Resource.String.button_color_picker_alpha;
-			global::TEditor.Resource.String.button_color_picker_noalpha = global::AppCloudEditor.Droid.Resource.String.button_color_picker_noalpha;
-			global::TEditor.Resource.String.button_color_picker_round = global::AppCloudEditor.Droid.Resource.String.button_color_picker_round;
-			global::TEditor.Resource.String.dialog_color_picker = global::AppCloudEditor.Droid.Resource.String.dialog_color_picker;
-			global::TEditor.Resource.String.press_color_to_apply = global::AppCloudEditor.Droid.Resource.String.press_color_to_apply;
-			global::TEditor.Resource.String.status_bar_notification_info_overflow = global::AppCloudEditor.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::TEditor.Resource.Style.AlertDialog_AppCompat = global::AppCloudEditor.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::TEditor.Resource.Style.AlertDialog_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::TEditor.Resource.Style.Animation_AppCompat_Dialog = global::AppCloudEditor.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::TEditor.Resource.Style.Animation_AppCompat_DropDownUp = global::AppCloudEditor.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::TEditor.Resource.Style.Base_AlertDialog_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::TEditor.Resource.Style.Base_AlertDialog_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::TEditor.Resource.Style.Base_Animation_AppCompat_Dialog = global::AppCloudEditor.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::TEditor.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::AppCloudEditor.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::TEditor.Resource.Style.Base_DialogWindowTitle_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::TEditor.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Button = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Large = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Small = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Title = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::TEditor.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::TEditor.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::TEditor.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::AppCloudEditor.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Dialog = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::AppCloudEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::AppCloudEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::TEditor.Resource.Style.Base_V21_Theme_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::TEditor.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::AppCloudEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::TEditor.Resource.Style.Base_V21_Theme_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::TEditor.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::AppCloudEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::TEditor.Resource.Style.Base_V22_Theme_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::TEditor.Resource.Style.Base_V22_Theme_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::TEditor.Resource.Style.Base_V23_Theme_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::TEditor.Resource.Style.Base_V23_Theme_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::TEditor.Resource.Style.Base_V7_Theme_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::TEditor.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::AppCloudEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::TEditor.Resource.Style.Base_V7_Theme_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::TEditor.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::AppCloudEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::TEditor.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::AppCloudEditor.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::TEditor.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::AppCloudEditor.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionButton = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionMode = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_Small = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_EditText = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ImageButton = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ListView = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_RatingBar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_SearchView = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_SeekBar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Spinner = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Toolbar = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::TEditor.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::AppCloudEditor.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::TEditor.Resource.Style.Platform_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Platform_AppCompat;
-			global::TEditor.Resource.Style.Platform_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::TEditor.Resource.Style.Platform_ThemeOverlay_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::TEditor.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::AppCloudEditor.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::TEditor.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::TEditor.Resource.Style.Platform_Widget_AppCompat_Spinner = global::AppCloudEditor.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::TEditor.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::AppCloudEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::TEditor.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::AppCloudEditor.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::TEditor.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::AppCloudEditor.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Body1 = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Body2 = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Button = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Caption = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Display1 = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Display2 = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Display3 = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Display4 = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Headline = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Large = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Medium = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Menu = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Small = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Subhead = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Title = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::TEditor.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::TEditor.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::TEditor.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::AppCloudEditor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::TEditor.Resource.Style.Theme_AppCompat = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat;
-			global::TEditor.Resource.Style.Theme_AppCompat_CompactMenu = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::TEditor.Resource.Style.Theme_AppCompat_DayNight = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::TEditor.Resource.Style.Theme_AppCompat_Dialog = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::TEditor.Resource.Style.Theme_AppCompat_Dialog_Alert = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::TEditor.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::TEditor.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::TEditor.Resource.Style.Theme_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::TEditor.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::TEditor.Resource.Style.Theme_AppCompat_Light_Dialog = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::TEditor.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::TEditor.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::TEditor.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::TEditor.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::TEditor.Resource.Style.Theme_AppCompat_NoActionBar = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::TEditor.Resource.Style.Theme_AppCompat_NoActionBar_FullScreen = global::AppCloudEditor.Droid.Resource.Style.Theme_AppCompat_NoActionBar_FullScreen;
-			global::TEditor.Resource.Style.ThemeOverlay_AppCompat = global::AppCloudEditor.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::TEditor.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::AppCloudEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::TEditor.Resource.Style.ThemeOverlay_AppCompat_Dark = global::AppCloudEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::TEditor.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::AppCloudEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::TEditor.Resource.Style.ThemeOverlay_AppCompat_Light = global::AppCloudEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActionButton = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActionMode = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::TEditor.Resource.Style.Widget_AppCompat_ActivityChooserView = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::TEditor.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::TEditor.Resource.Style.Widget_AppCompat_Button = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::TEditor.Resource.Style.Widget_AppCompat_Button_Borderless = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::TEditor.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::TEditor.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::TEditor.Resource.Style.Widget_AppCompat_Button_Colored = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::TEditor.Resource.Style.Widget_AppCompat_Button_Small = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::TEditor.Resource.Style.Widget_AppCompat_ButtonBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::TEditor.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::TEditor.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::TEditor.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::TEditor.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::TEditor.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::TEditor.Resource.Style.Widget_AppCompat_EditText = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::TEditor.Resource.Style.Widget_AppCompat_ImageButton = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionButton = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_SearchView = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::TEditor.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_ListPopupWindow = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::TEditor.Resource.Style.Widget_AppCompat_ListView = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::TEditor.Resource.Style.Widget_AppCompat_ListView_DropDown = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::TEditor.Resource.Style.Widget_AppCompat_ListView_Menu = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::TEditor.Resource.Style.Widget_AppCompat_PopupMenu = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::TEditor.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::TEditor.Resource.Style.Widget_AppCompat_PopupWindow = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::TEditor.Resource.Style.Widget_AppCompat_ProgressBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::TEditor.Resource.Style.Widget_AppCompat_RatingBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::TEditor.Resource.Style.Widget_AppCompat_RatingBar_Small = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::TEditor.Resource.Style.Widget_AppCompat_SearchView = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::TEditor.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_SeekBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_Spinner = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::TEditor.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::TEditor.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::TEditor.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::TEditor.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::TEditor.Resource.Style.Widget_AppCompat_Toolbar = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::TEditor.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::AppCloudEditor.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::TEditor.Resource.Styleable.ActionBar = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar;
-			global::TEditor.Resource.Styleable.ActionBar_background = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_background;
-			global::TEditor.Resource.Styleable.ActionBar_backgroundSplit = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::TEditor.Resource.Styleable.ActionBar_backgroundStacked = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::TEditor.Resource.Styleable.ActionBar_contentInsetEnd = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::TEditor.Resource.Styleable.ActionBar_contentInsetLeft = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::TEditor.Resource.Styleable.ActionBar_contentInsetRight = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::TEditor.Resource.Styleable.ActionBar_contentInsetStart = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::TEditor.Resource.Styleable.ActionBar_customNavigationLayout = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::TEditor.Resource.Styleable.ActionBar_displayOptions = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::TEditor.Resource.Styleable.ActionBar_divider = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_divider;
-			global::TEditor.Resource.Styleable.ActionBar_elevation = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_elevation;
-			global::TEditor.Resource.Styleable.ActionBar_height = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_height;
-			global::TEditor.Resource.Styleable.ActionBar_hideOnContentScroll = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::TEditor.Resource.Styleable.ActionBar_homeAsUpIndicator = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::TEditor.Resource.Styleable.ActionBar_homeLayout = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::TEditor.Resource.Styleable.ActionBar_icon = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_icon;
-			global::TEditor.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::TEditor.Resource.Styleable.ActionBar_itemPadding = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::TEditor.Resource.Styleable.ActionBar_logo = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_logo;
-			global::TEditor.Resource.Styleable.ActionBar_navigationMode = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::TEditor.Resource.Styleable.ActionBar_popupTheme = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::TEditor.Resource.Styleable.ActionBar_progressBarPadding = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::TEditor.Resource.Styleable.ActionBar_progressBarStyle = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::TEditor.Resource.Styleable.ActionBar_subtitle = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::TEditor.Resource.Styleable.ActionBar_subtitleTextStyle = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::TEditor.Resource.Styleable.ActionBar_title = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_title;
-			global::TEditor.Resource.Styleable.ActionBar_titleTextStyle = global::AppCloudEditor.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::TEditor.Resource.Styleable.ActionBarLayout = global::AppCloudEditor.Droid.Resource.Styleable.ActionBarLayout;
-			global::TEditor.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::AppCloudEditor.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::TEditor.Resource.Styleable.ActionMenuItemView = global::AppCloudEditor.Droid.Resource.Styleable.ActionMenuItemView;
-			global::TEditor.Resource.Styleable.ActionMenuItemView_android_minWidth = global::AppCloudEditor.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::TEditor.Resource.Styleable.ActionMenuView = global::AppCloudEditor.Droid.Resource.Styleable.ActionMenuView;
-			global::TEditor.Resource.Styleable.ActionMode = global::AppCloudEditor.Droid.Resource.Styleable.ActionMode;
-			global::TEditor.Resource.Styleable.ActionMode_background = global::AppCloudEditor.Droid.Resource.Styleable.ActionMode_background;
-			global::TEditor.Resource.Styleable.ActionMode_backgroundSplit = global::AppCloudEditor.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::TEditor.Resource.Styleable.ActionMode_closeItemLayout = global::AppCloudEditor.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::TEditor.Resource.Styleable.ActionMode_height = global::AppCloudEditor.Droid.Resource.Styleable.ActionMode_height;
-			global::TEditor.Resource.Styleable.ActionMode_subtitleTextStyle = global::AppCloudEditor.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::TEditor.Resource.Styleable.ActionMode_titleTextStyle = global::AppCloudEditor.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::TEditor.Resource.Styleable.ActivityChooserView = global::AppCloudEditor.Droid.Resource.Styleable.ActivityChooserView;
-			global::TEditor.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::AppCloudEditor.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::TEditor.Resource.Styleable.ActivityChooserView_initialActivityCount = global::AppCloudEditor.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::TEditor.Resource.Styleable.AlertDialog = global::AppCloudEditor.Droid.Resource.Styleable.AlertDialog;
-			global::TEditor.Resource.Styleable.AlertDialog_android_layout = global::AppCloudEditor.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::TEditor.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::AppCloudEditor.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::TEditor.Resource.Styleable.AlertDialog_listItemLayout = global::AppCloudEditor.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::TEditor.Resource.Styleable.AlertDialog_listLayout = global::AppCloudEditor.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::TEditor.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::AppCloudEditor.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::TEditor.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::AppCloudEditor.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::TEditor.Resource.Styleable.AppCompatImageView = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatImageView;
-			global::TEditor.Resource.Styleable.AppCompatImageView_android_src = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::TEditor.Resource.Styleable.AppCompatImageView_srcCompat = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::TEditor.Resource.Styleable.AppCompatTextView = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTextView;
-			global::TEditor.Resource.Styleable.AppCompatTextView_android_textAppearance = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::TEditor.Resource.Styleable.AppCompatTextView_textAllCaps = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::TEditor.Resource.Styleable.AppCompatTheme = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarDivider = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarSize = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarTheme = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeBackground = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::TEditor.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::TEditor.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::TEditor.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_buttonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::TEditor.Resource.Styleable.AppCompatTheme_checkboxStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_colorAccent = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::TEditor.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::TEditor.Resource.Styleable.AppCompatTheme_colorControlActivated = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::TEditor.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::TEditor.Resource.Styleable.AppCompatTheme_colorControlNormal = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::TEditor.Resource.Styleable.AppCompatTheme_colorPrimary = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::TEditor.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::TEditor.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::TEditor.Resource.Styleable.AppCompatTheme_controlBackground = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::TEditor.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::TEditor.Resource.Styleable.AppCompatTheme_dialogTheme = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::TEditor.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::TEditor.Resource.Styleable.AppCompatTheme_dividerVertical = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::TEditor.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::TEditor.Resource.Styleable.AppCompatTheme_editTextBackground = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::TEditor.Resource.Styleable.AppCompatTheme_editTextColor = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::TEditor.Resource.Styleable.AppCompatTheme_editTextStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::TEditor.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::TEditor.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::TEditor.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::TEditor.Resource.Styleable.AppCompatTheme_panelBackground = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::TEditor.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::TEditor.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::TEditor.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::TEditor.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::TEditor.Resource.Styleable.AppCompatTheme_searchViewStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_seekBarStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::TEditor.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::TEditor.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_spinnerStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_switchStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::TEditor.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::TEditor.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::TEditor.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_toolbarStyle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowActionBar = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::TEditor.Resource.Styleable.AppCompatTheme_windowNoTitle = global::AppCloudEditor.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::TEditor.Resource.Styleable.ButtonBarLayout = global::AppCloudEditor.Droid.Resource.Styleable.ButtonBarLayout;
-			global::TEditor.Resource.Styleable.ButtonBarLayout_allowStacking = global::AppCloudEditor.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::TEditor.Resource.Styleable.CompoundButton = global::AppCloudEditor.Droid.Resource.Styleable.CompoundButton;
-			global::TEditor.Resource.Styleable.CompoundButton_android_button = global::AppCloudEditor.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::TEditor.Resource.Styleable.CompoundButton_buttonTint = global::AppCloudEditor.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::TEditor.Resource.Styleable.CompoundButton_buttonTintMode = global::AppCloudEditor.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::TEditor.Resource.Styleable.DrawerArrowToggle = global::AppCloudEditor.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::TEditor.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::AppCloudEditor.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::TEditor.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::AppCloudEditor.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::TEditor.Resource.Styleable.DrawerArrowToggle_barLength = global::AppCloudEditor.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::TEditor.Resource.Styleable.DrawerArrowToggle_color = global::AppCloudEditor.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::TEditor.Resource.Styleable.DrawerArrowToggle_drawableSize = global::AppCloudEditor.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::TEditor.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::AppCloudEditor.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::TEditor.Resource.Styleable.DrawerArrowToggle_spinBars = global::AppCloudEditor.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::TEditor.Resource.Styleable.DrawerArrowToggle_thickness = global::AppCloudEditor.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_gravity = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_orientation = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_divider = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_showDividers = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::AppCloudEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::TEditor.Resource.Styleable.ListPopupWindow = global::AppCloudEditor.Droid.Resource.Styleable.ListPopupWindow;
-			global::TEditor.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::AppCloudEditor.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::TEditor.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::AppCloudEditor.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::TEditor.Resource.Styleable.MenuGroup = global::AppCloudEditor.Droid.Resource.Styleable.MenuGroup;
-			global::TEditor.Resource.Styleable.MenuGroup_android_checkableBehavior = global::AppCloudEditor.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::TEditor.Resource.Styleable.MenuGroup_android_enabled = global::AppCloudEditor.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::TEditor.Resource.Styleable.MenuGroup_android_id = global::AppCloudEditor.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::TEditor.Resource.Styleable.MenuGroup_android_menuCategory = global::AppCloudEditor.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::TEditor.Resource.Styleable.MenuGroup_android_orderInCategory = global::AppCloudEditor.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::TEditor.Resource.Styleable.MenuGroup_android_visible = global::AppCloudEditor.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::TEditor.Resource.Styleable.MenuItem = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem;
-			global::TEditor.Resource.Styleable.MenuItem_actionLayout = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::TEditor.Resource.Styleable.MenuItem_actionProviderClass = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::TEditor.Resource.Styleable.MenuItem_actionViewClass = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::TEditor.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::TEditor.Resource.Styleable.MenuItem_android_checkable = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::TEditor.Resource.Styleable.MenuItem_android_checked = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::TEditor.Resource.Styleable.MenuItem_android_enabled = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::TEditor.Resource.Styleable.MenuItem_android_icon = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::TEditor.Resource.Styleable.MenuItem_android_id = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_id;
-			global::TEditor.Resource.Styleable.MenuItem_android_menuCategory = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::TEditor.Resource.Styleable.MenuItem_android_numericShortcut = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::TEditor.Resource.Styleable.MenuItem_android_onClick = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::TEditor.Resource.Styleable.MenuItem_android_orderInCategory = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::TEditor.Resource.Styleable.MenuItem_android_title = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_title;
-			global::TEditor.Resource.Styleable.MenuItem_android_titleCondensed = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::TEditor.Resource.Styleable.MenuItem_android_visible = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::TEditor.Resource.Styleable.MenuItem_showAsAction = global::AppCloudEditor.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::TEditor.Resource.Styleable.MenuView = global::AppCloudEditor.Droid.Resource.Styleable.MenuView;
-			global::TEditor.Resource.Styleable.MenuView_android_headerBackground = global::AppCloudEditor.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::TEditor.Resource.Styleable.MenuView_android_horizontalDivider = global::AppCloudEditor.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::TEditor.Resource.Styleable.MenuView_android_itemBackground = global::AppCloudEditor.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::TEditor.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::AppCloudEditor.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::TEditor.Resource.Styleable.MenuView_android_itemTextAppearance = global::AppCloudEditor.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::TEditor.Resource.Styleable.MenuView_android_verticalDivider = global::AppCloudEditor.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::TEditor.Resource.Styleable.MenuView_android_windowAnimationStyle = global::AppCloudEditor.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::TEditor.Resource.Styleable.MenuView_preserveIconSpacing = global::AppCloudEditor.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::TEditor.Resource.Styleable.PopupWindow = global::AppCloudEditor.Droid.Resource.Styleable.PopupWindow;
-			global::TEditor.Resource.Styleable.PopupWindow_android_popupBackground = global::AppCloudEditor.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::TEditor.Resource.Styleable.PopupWindow_overlapAnchor = global::AppCloudEditor.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::TEditor.Resource.Styleable.PopupWindowBackgroundState = global::AppCloudEditor.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::TEditor.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::AppCloudEditor.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::TEditor.Resource.Styleable.SearchView = global::AppCloudEditor.Droid.Resource.Styleable.SearchView;
-			global::TEditor.Resource.Styleable.SearchView_android_focusable = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::TEditor.Resource.Styleable.SearchView_android_imeOptions = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::TEditor.Resource.Styleable.SearchView_android_inputType = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::TEditor.Resource.Styleable.SearchView_android_maxWidth = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::TEditor.Resource.Styleable.SearchView_closeIcon = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::TEditor.Resource.Styleable.SearchView_commitIcon = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::TEditor.Resource.Styleable.SearchView_defaultQueryHint = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::TEditor.Resource.Styleable.SearchView_goIcon = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_goIcon;
-			global::TEditor.Resource.Styleable.SearchView_iconifiedByDefault = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::TEditor.Resource.Styleable.SearchView_layout = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_layout;
-			global::TEditor.Resource.Styleable.SearchView_queryBackground = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::TEditor.Resource.Styleable.SearchView_queryHint = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_queryHint;
-			global::TEditor.Resource.Styleable.SearchView_searchHintIcon = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::TEditor.Resource.Styleable.SearchView_searchIcon = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::TEditor.Resource.Styleable.SearchView_submitBackground = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::TEditor.Resource.Styleable.SearchView_suggestionRowLayout = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::TEditor.Resource.Styleable.SearchView_voiceIcon = global::AppCloudEditor.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::TEditor.Resource.Styleable.Spinner = global::AppCloudEditor.Droid.Resource.Styleable.Spinner;
-			global::TEditor.Resource.Styleable.Spinner_android_dropDownWidth = global::AppCloudEditor.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::TEditor.Resource.Styleable.Spinner_android_entries = global::AppCloudEditor.Droid.Resource.Styleable.Spinner_android_entries;
-			global::TEditor.Resource.Styleable.Spinner_android_popupBackground = global::AppCloudEditor.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::TEditor.Resource.Styleable.Spinner_android_prompt = global::AppCloudEditor.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::TEditor.Resource.Styleable.Spinner_popupTheme = global::AppCloudEditor.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::TEditor.Resource.Styleable.SwitchCompat = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat;
-			global::TEditor.Resource.Styleable.SwitchCompat_android_textOff = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::TEditor.Resource.Styleable.SwitchCompat_android_textOn = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::TEditor.Resource.Styleable.SwitchCompat_android_thumb = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::TEditor.Resource.Styleable.SwitchCompat_showText = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::TEditor.Resource.Styleable.SwitchCompat_splitTrack = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::TEditor.Resource.Styleable.SwitchCompat_switchMinWidth = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::TEditor.Resource.Styleable.SwitchCompat_switchPadding = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::TEditor.Resource.Styleable.SwitchCompat_switchTextAppearance = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::TEditor.Resource.Styleable.SwitchCompat_thumbTextPadding = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::TEditor.Resource.Styleable.SwitchCompat_track = global::AppCloudEditor.Droid.Resource.Styleable.SwitchCompat_track;
-			global::TEditor.Resource.Styleable.TextAppearance = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance;
-			global::TEditor.Resource.Styleable.TextAppearance_android_shadowColor = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::TEditor.Resource.Styleable.TextAppearance_android_shadowDx = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::TEditor.Resource.Styleable.TextAppearance_android_shadowDy = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::TEditor.Resource.Styleable.TextAppearance_android_shadowRadius = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::TEditor.Resource.Styleable.TextAppearance_android_textColor = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::TEditor.Resource.Styleable.TextAppearance_android_textSize = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::TEditor.Resource.Styleable.TextAppearance_android_textStyle = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::TEditor.Resource.Styleable.TextAppearance_android_typeface = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::TEditor.Resource.Styleable.TextAppearance_textAllCaps = global::AppCloudEditor.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::TEditor.Resource.Styleable.Toolbar = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar;
-			global::TEditor.Resource.Styleable.Toolbar_android_gravity = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::TEditor.Resource.Styleable.Toolbar_android_minHeight = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::TEditor.Resource.Styleable.Toolbar_collapseContentDescription = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::TEditor.Resource.Styleable.Toolbar_collapseIcon = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::TEditor.Resource.Styleable.Toolbar_contentInsetEnd = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::TEditor.Resource.Styleable.Toolbar_contentInsetLeft = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::TEditor.Resource.Styleable.Toolbar_contentInsetRight = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::TEditor.Resource.Styleable.Toolbar_contentInsetStart = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::TEditor.Resource.Styleable.Toolbar_logo = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_logo;
-			global::TEditor.Resource.Styleable.Toolbar_logoDescription = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::TEditor.Resource.Styleable.Toolbar_maxButtonHeight = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::TEditor.Resource.Styleable.Toolbar_navigationContentDescription = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::TEditor.Resource.Styleable.Toolbar_navigationIcon = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::TEditor.Resource.Styleable.Toolbar_popupTheme = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::TEditor.Resource.Styleable.Toolbar_subtitle = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::TEditor.Resource.Styleable.Toolbar_subtitleTextAppearance = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::TEditor.Resource.Styleable.Toolbar_subtitleTextColor = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::TEditor.Resource.Styleable.Toolbar_title = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_title;
-			global::TEditor.Resource.Styleable.Toolbar_titleMarginBottom = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::TEditor.Resource.Styleable.Toolbar_titleMarginEnd = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::TEditor.Resource.Styleable.Toolbar_titleMarginStart = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::TEditor.Resource.Styleable.Toolbar_titleMarginTop = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::TEditor.Resource.Styleable.Toolbar_titleMargins = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::TEditor.Resource.Styleable.Toolbar_titleTextAppearance = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::TEditor.Resource.Styleable.Toolbar_titleTextColor = global::AppCloudEditor.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::TEditor.Resource.Styleable.View = global::AppCloudEditor.Droid.Resource.Styleable.View;
-			global::TEditor.Resource.Styleable.View_android_focusable = global::AppCloudEditor.Droid.Resource.Styleable.View_android_focusable;
-			global::TEditor.Resource.Styleable.View_android_theme = global::AppCloudEditor.Droid.Resource.Styleable.View_android_theme;
-			global::TEditor.Resource.Styleable.View_paddingEnd = global::AppCloudEditor.Droid.Resource.Styleable.View_paddingEnd;
-			global::TEditor.Resource.Styleable.View_paddingStart = global::AppCloudEditor.Droid.Resource.Styleable.View_paddingStart;
-			global::TEditor.Resource.Styleable.View_theme = global::AppCloudEditor.Droid.Resource.Styleable.View_theme;
-			global::TEditor.Resource.Styleable.ViewBackgroundHelper = global::AppCloudEditor.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::TEditor.Resource.Styleable.ViewBackgroundHelper_android_background = global::AppCloudEditor.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::TEditor.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::AppCloudEditor.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::TEditor.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::AppCloudEditor.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::TEditor.Resource.Styleable.ViewStubCompat = global::AppCloudEditor.Droid.Resource.Styleable.ViewStubCompat;
-			global::TEditor.Resource.Styleable.ViewStubCompat_android_id = global::AppCloudEditor.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::TEditor.Resource.Styleable.ViewStubCompat_android_inflatedId = global::AppCloudEditor.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::TEditor.Resource.Styleable.ViewStubCompat_android_layout = global::AppCloudEditor.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::AppCloudEditor.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::AppCloudEditor.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::AppCloudEditor.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -6398,17 +5145,17 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F010010
 			public const int design_snackbar_out = 2130771984;
 			
-			// aapt resource value: 0x7F100018
-			public const int EnterFromLeft = 2131755032;
+			// aapt resource value: 0x7F080018
+			public const int EnterFromLeft = 2131230744;
 			
-			// aapt resource value: 0x7F100019
-			public const int EnterFromRight = 2131755033;
+			// aapt resource value: 0x7F080019
+			public const int EnterFromRight = 2131230745;
 			
-			// aapt resource value: 0x7F100020
-			public const int ExitToLeft = 2131755040;
+			// aapt resource value: 0x7F080020
+			public const int ExitToLeft = 2131230752;
 			
-			// aapt resource value: 0x7F100021
-			public const int ExitToRight = 2131755041;
+			// aapt resource value: 0x7F080021
+			public const int ExitToRight = 2131230753;
 			
 			static Animation()
 			{
@@ -6859,8 +5606,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F040081
 			public const int collapseIcon = 2130968705;
 			
-			// aapt resource value: 0x7F110493
-			public const int collectionViewStyle = 2131821715;
+			// aapt resource value: 0x7F090493
+			public const int collectionViewStyle = 2131297427;
 			
 			// aapt resource value: 0x7F040084
 			public const int color = 2130968708;
@@ -7522,8 +6269,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F040151
 			public const int scrimVisibleHeightTrigger = 2130968913;
 			
-			// aapt resource value: 0x7F110494
-			public const int scrollViewStyle = 2131821716;
+			// aapt resource value: 0x7F090494
+			public const int scrollViewStyle = 2131297428;
 			
 			// aapt resource value: 0x7F040152
 			public const int searchHintIcon = 2130968914;
@@ -9926,12 +8673,6 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F010004
 			public const int LodingPage = 2130771972;
 			
-			// aapt resource value: 0x7F010005
-			public const int MenuDiscard = 2130771973;
-			
-			// aapt resource value: 0x7F010006
-			public const int MenuSave = 2130771974;
-			
 			// aapt resource value: 0x7F090106
 			public const int mr_button_connected_dark = 2131296518;
 			
@@ -10043,114 +8784,6 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F090070
 			public const int tooltip_frame_light = 2131296368;
 			
-			// aapt resource value: 0x7F010007
-			public const int ZSSbgcolor = 2130771975;
-			
-			// aapt resource value: 0x7F010008
-			public const int ZSSbold = 2130771976;
-			
-			// aapt resource value: 0x7F010009
-			public const int ZSScenterjustify = 2130771977;
-			
-			// aapt resource value: 0x7F010010
-			public const int ZSSclearstyle = 2130771984;
-			
-			// aapt resource value: 0x7F010011
-			public const int ZSSforcejustify = 2130771985;
-			
-			// aapt resource value: 0x7F010012
-			public const int ZSSh1 = 2130771986;
-			
-			// aapt resource value: 0x7F010013
-			public const int ZSSh2 = 2130771987;
-			
-			// aapt resource value: 0x7F010014
-			public const int ZSSh3 = 2130771988;
-			
-			// aapt resource value: 0x7F010015
-			public const int ZSSh4 = 2130771989;
-			
-			// aapt resource value: 0x7F010016
-			public const int ZSSh5 = 2130771990;
-			
-			// aapt resource value: 0x7F010017
-			public const int ZSSh6 = 2130771991;
-			
-			// aapt resource value: 0x7F010018
-			public const int ZSShorizontalrule = 2130771992;
-			
-			// aapt resource value: 0x7F010019
-			public const int ZSSimage = 2130771993;
-			
-			// aapt resource value: 0x7F010020
-			public const int ZSSindent = 2130772000;
-			
-			// aapt resource value: 0x7F010021
-			public const int ZSSinsertkeyword = 2130772001;
-			
-			// aapt resource value: 0x7F010022
-			public const int ZSSitalic = 2130772002;
-			
-			// aapt resource value: 0x7F010023
-			public const int ZSSkeyboard = 2130772003;
-			
-			// aapt resource value: 0x7F010024
-			public const int ZSSleftjustify = 2130772004;
-			
-			// aapt resource value: 0x7F010025
-			public const int ZSSlink = 2130772005;
-			
-			// aapt resource value: 0x7F010026
-			public const int ZSSorderedlist = 2130772006;
-			
-			// aapt resource value: 0x7F010027
-			public const int ZSSoutdent = 2130772007;
-			
-			// aapt resource value: 0x7F010028
-			public const int ZSSparagraph = 2130772008;
-			
-			// aapt resource value: 0x7F010029
-			public const int ZSSpicker = 2130772009;
-			
-			// aapt resource value: 0x7F010030
-			public const int ZSSquicklink = 2130772016;
-			
-			// aapt resource value: 0x7F010031
-			public const int ZSSredo = 2130772017;
-			
-			// aapt resource value: 0x7F010032
-			public const int ZSSrightjustify = 2130772018;
-			
-			// aapt resource value: 0x7F010033
-			public const int ZSSstrikethrough = 2130772019;
-			
-			// aapt resource value: 0x7F010034
-			public const int ZSSsubscript = 2130772020;
-			
-			// aapt resource value: 0x7F010035
-			public const int ZSSsuperscript = 2130772021;
-			
-			// aapt resource value: 0x7F010036
-			public const int ZSStable = 2130772022;
-			
-			// aapt resource value: 0x7F010037
-			public const int ZSStextcolor = 2130772023;
-			
-			// aapt resource value: 0x7F010038
-			public const int ZSSunderline = 2130772024;
-			
-			// aapt resource value: 0x7F010039
-			public const int ZSSundo = 2130772025;
-			
-			// aapt resource value: 0x7F010040
-			public const int ZSSunlink = 2130772032;
-			
-			// aapt resource value: 0x7F010041
-			public const int ZSSunorderedlist = 2130772033;
-			
-			// aapt resource value: 0x7F010042
-			public const int ZSSviewsource = 2130772034;
-			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -10242,11 +8875,11 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0C0008
 			public const int bottom = 2131492872;
 			
-			// aapt resource value: 0x7F020223
-			public const int bottomtab.navarea = 2130838051;
+			// aapt resource value: 0x7F020213
+			public const int bottomtab.navarea = 2130838035;
 			
-			// aapt resource value: 0x7F020224
-			public const int bottomtab.tabbar = 2130838052;
+			// aapt resource value: 0x7F020214
+			public const int bottomtab.tabbar = 2130838036;
 			
 			// aapt resource value: 0x7F0C0009
 			public const int browser_actions_header_text = 2131492873;
@@ -10277,9 +8910,6 @@ namespace AppCloudEditor.Droid
 			
 			// aapt resource value: 0x7F0C0008
 			public const int chronometer = 2131492872;
-			
-			// aapt resource value: 0x7F020004
-			public const int color_picker_view = 2130837508;
 			
 			// aapt resource value: 0x7F0C001E
 			public const int container = 2131492894;
@@ -10320,9 +8950,6 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0C002A
 			public const int design_navigation_view = 2131492906;
 			
-			// aapt resource value: 0x7F020009
-			public const int EditorWebView = 2130837513;
-			
 			// aapt resource value: 0x7F0C002B
 			public const int edit_query = 2131492907;
 			
@@ -10347,11 +8974,11 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0C0031
 			public const int @fixed = 2131492913;
 			
-			// aapt resource value: 0x7F020225
-			public const int flyoutcontent_appbar = 2130838053;
+			// aapt resource value: 0x7F020215
+			public const int flyoutcontent_appbar = 2130838037;
 			
-			// aapt resource value: 0x7F020226
-			public const int flyoutcontent_recycler = 2130838054;
+			// aapt resource value: 0x7F020216
+			public const int flyoutcontent_recycler = 2130838038;
 			
 			// aapt resource value: 0x7F0C0009
 			public const int forever = 2131492873;
@@ -10404,29 +9031,23 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0C0042
 			public const int list_item = 2131492930;
 			
-			// aapt resource value: 0x7F020227
-			public const int main.appbar = 2130838055;
+			// aapt resource value: 0x7F020217
+			public const int main.appbar = 2130838039;
 			
-			// aapt resource value: 0x7F020229
-			public const int main.tablayout = 2130838057;
+			// aapt resource value: 0x7F020219
+			public const int main.tablayout = 2130838041;
 			
-			// aapt resource value: 0x7F020228
-			public const int main.toolbar = 2130838056;
+			// aapt resource value: 0x7F020218
+			public const int main.toolbar = 2130838040;
 			
-			// aapt resource value: 0x7F020230
-			public const int main.viewpager = 2130838064;
+			// aapt resource value: 0x7F020220
+			public const int main.viewpager = 2130838048;
 			
 			// aapt resource value: 0x7F0C0043
 			public const int masked = 2131492931;
 			
 			// aapt resource value: 0x7F0C0013
 			public const int media_actions = 2131492883;
-			
-			// aapt resource value: 0x7F020012
-			public const int menu_cancel = 2130837522;
-			
-			// aapt resource value: 0x7F020013
-			public const int menu_done = 2130837523;
 			
 			// aapt resource value: 0x7F0C0044
 			public const int message = 2131492932;
@@ -10584,9 +9205,6 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0C0049
 			public const int navigation_header_container = 2131492937;
 			
-			// aapt resource value: 0x7F020006
-			public const int new_color_panel = 2130837510;
-			
 			// aapt resource value: 0x7F0C0013
 			public const int none = 2131492883;
 			
@@ -10601,9 +9219,6 @@ namespace AppCloudEditor.Droid
 			
 			// aapt resource value: 0x7F0C0013
 			public const int notification_main_column_container = 2131492883;
-			
-			// aapt resource value: 0x7F020005
-			public const int old_color_panel = 2130837509;
 			
 			// aapt resource value: 0x7F0C004F
 			public const int outline = 2131492943;
@@ -10637,9 +9252,6 @@ namespace AppCloudEditor.Droid
 			
 			// aapt resource value: 0x7F0C0015
 			public const int right_side = 2131492885;
-			
-			// aapt resource value: 0x7F020007
-			public const int RootRelativeLayout = 2130837511;
 			
 			// aapt resource value: 0x7F0C005A
 			public const int save_image_matrix = 2131492954;
@@ -10701,11 +9313,11 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0C006C
 			public const int select_dialog_listview = 2131492972;
 			
-			// aapt resource value: 0x7F020231
-			public const int shellcontent.appbar = 2130838065;
+			// aapt resource value: 0x7F020221
+			public const int shellcontent.appbar = 2130838049;
 			
-			// aapt resource value: 0x7F020232
-			public const int shellcontent.toolbar = 2130838066;
+			// aapt resource value: 0x7F020222
+			public const int shellcontent.toolbar = 2130838050;
 			
 			// aapt resource value: 0x7F0C006E
 			public const int shortcut = 2131492974;
@@ -10803,20 +9415,11 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F020003
 			public const int toolbar = 2130837507;
 			
-			// aapt resource value: 0x7F020011
-			public const int ToolbarItemsLayout = 2130837521;
-			
-			// aapt resource value: 0x7F020010
-			public const int ToolbarLayout = 2130837520;
-			
 			// aapt resource value: 0x7F0C0023
 			public const int top = 2131492899;
 			
 			// aapt resource value: 0x7F0C008C
 			public const int topPanel = 2131493004;
-			
-			// aapt resource value: 0x7F020008
-			public const int TopToolbar = 2130837512;
 			
 			// aapt resource value: 0x7F0C008D
 			public const int touch_outside = 2131493005;
@@ -11055,8 +9658,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0F001C
 			public const int abc_tooltip = 2131689500;
 			
-			// aapt resource value: 0x7F030085
-			public const int BottomTabLayout = 2130903173;
+			// aapt resource value: 0x7F030083
+			public const int BottomTabLayout = 2130903171;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int browser_actions_context_menu_page = 2131689473;
@@ -11106,11 +9709,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0F002A
 			public const int design_text_input_password_icon = 2131689514;
 			
-			// aapt resource value: 0x7F030004
-			public const int dialog_color_picker = 2130903044;
-			
-			// aapt resource value: 0x7F030086
-			public const int FlyoutContent = 2130903174;
+			// aapt resource value: 0x7F030084
+			public const int FlyoutContent = 2130903172;
 			
 			// aapt resource value: 0x7F0F001D
 			public const int mr_cast_dialog = 2131689501;
@@ -11205,8 +9805,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0F0006
 			public const int notification_template_part_time = 2131689478;
 			
-			// aapt resource value: 0x7F030087
-			public const int RootLayout = 2130903175;
+			// aapt resource value: 0x7F030085
+			public const int RootLayout = 2130903173;
 			
 			// aapt resource value: 0x7F0F0033
 			public const int select_dialog_item_material = 2131689523;
@@ -11217,17 +9817,14 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F0F0035
 			public const int select_dialog_singlechoice_material = 2131689525;
 			
-			// aapt resource value: 0x7F030088
-			public const int ShellContent = 2130903176;
+			// aapt resource value: 0x7F030086
+			public const int ShellContent = 2130903174;
 			
 			// aapt resource value: 0x7F0F0036
 			public const int support_simple_spinner_dropdown_item = 2131689526;
 			
 			// aapt resource value: 0x7F030002
 			public const int Tabbar = 2130903042;
-			
-			// aapt resource value: 0x7F030005
-			public const int TEditorActivity = 2130903045;
 			
 			// aapt resource value: 0x7F030003
 			public const int Toolbar = 2130903043;
@@ -11238,22 +9835,6 @@ namespace AppCloudEditor.Droid
 			}
 			
 			private Layout()
-			{
-			}
-		}
-		
-		public partial class Menu
-		{
-			
-			// aapt resource value: 0x7F070002
-			public const int TopToolbarMenu = 2131165186;
-			
-			static Menu()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Menu()
 			{
 			}
 		}
@@ -11403,29 +9984,14 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F150028
 			public const int appbar_scrolling_view_behavior = 2132082728;
 			
-			// aapt resource value: 0x7F080002
-			public const int app_name = 2131230722;
-			
 			// aapt resource value: 0x7F150029
 			public const int bottom_sheet_behavior = 2132082729;
-			
-			// aapt resource value: 0x7F080006
-			public const int button_color_picker_alpha = 2131230726;
-			
-			// aapt resource value: 0x7F080005
-			public const int button_color_picker_noalpha = 2131230725;
-			
-			// aapt resource value: 0x7F080007
-			public const int button_color_picker_round = 2131230727;
 			
 			// aapt resource value: 0x7F15002A
 			public const int character_counter_content_description = 2132082730;
 			
 			// aapt resource value: 0x7F15002B
 			public const int character_counter_pattern = 2132082731;
-			
-			// aapt resource value: 0x7F080003
-			public const int dialog_color_picker = 2131230723;
 			
 			// aapt resource value: 0x7F15002C
 			public const int fab_transformation_scrim_behavior = 2132082732;
@@ -11511,8 +10077,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F15002F
 			public const int mtrl_chip_close_icon_content_description = 2132082735;
 			
-			// aapt resource value: 0x7F080086
-			public const int overflow_tab_title = 2131230854;
+			// aapt resource value: 0x7F100080
+			public const int overflow_tab_title = 2131755136;
 			
 			// aapt resource value: 0x7F150030
 			public const int password_toggle_content_description = 2132082736;
@@ -11528,9 +10094,6 @@ namespace AppCloudEditor.Droid
 			
 			// aapt resource value: 0x7F150034
 			public const int path_password_strike_through = 2132082740;
-			
-			// aapt resource value: 0x7F080004
-			public const int press_color_to_apply = 2131230724;
 			
 			// aapt resource value: 0x7F150035
 			public const int search_menu_title = 2132082741;
@@ -12145,8 +10708,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F1600C5
 			public const int CardView_Light = 2132148421;
 			
-			// aapt resource value: 0x7F060519
-			public const int collectionViewTheme = 2131100953;
+			// aapt resource value: 0x7F060518
+			public const int collectionViewTheme = 2131100952;
 			
 			// aapt resource value: 0x7F060003
 			public const int MainTheme = 2131099651;
@@ -12247,11 +10810,11 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x7F1600E4
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2132148452;
 			
-			// aapt resource value: 0x7F060518
-			public const int scrollViewScrollBars = 2131100952;
+			// aapt resource value: 0x7F060517
+			public const int scrollViewScrollBars = 2131100951;
 			
-			// aapt resource value: 0x7F060520
-			public const int scrollViewTheme = 2131100960;
+			// aapt resource value: 0x7F060519
+			public const int scrollViewTheme = 2131100953;
 			
 			// aapt resource value: 0x7F1600E5
 			public const int TextAppearance_AppCompat = 2132148453;
@@ -12639,9 +11202,6 @@ namespace AppCloudEditor.Droid
 			
 			// aapt resource value: 0x7F16015B
 			public const int Theme_AppCompat_NoActionBar = 2132148571;
-			
-			// aapt resource value: 0x7F060006
-			public const int Theme_AppCompat_NoActionBar_FullScreen = 2131099654;
 			
 			// aapt resource value: 0x7F16015C
 			public const int Theme_Design = 2132148572;
@@ -13155,11 +11715,11 @@ namespace AppCloudEditor.Droid
 			public static int[] ActionBarLayout = new int[] {
 					16842931};
 			
-			// aapt resource value: 0x7F090082
-			public const int ActionBarLayout_android_layout_gravity = 2131296386;
+			// aapt resource value: 0x7F070082
+			public const int ActionBarLayout_android_layout_gravity = 2131165314;
 			
-			// aapt resource value: 0x7F090052
-			public const int ActionBar_background = 2131296338;
+			// aapt resource value: 0x7F070052
+			public const int ActionBar_background = 2131165266;
 			
 			// aapt resource value: 0x1
 			public const int ActionBar_backgroundSplit = 1;
@@ -13248,8 +11808,8 @@ namespace AppCloudEditor.Droid
 			public static int[] ActionMenuItemView = new int[] {
 					16843071};
 			
-			// aapt resource value: 0x7F090084
-			public const int ActionMenuItemView_android_minWidth = 2131296388;
+			// aapt resource value: 0x7F070084
+			public const int ActionMenuItemView_android_minWidth = 2131165316;
 			
 			public static int[] ActionMenuView = new int[] {
 					0};
@@ -13262,8 +11822,8 @@ namespace AppCloudEditor.Droid
 					2130968951,
 					2130969030};
 			
-			// aapt resource value: 0x7F090086
-			public const int ActionMode_background = 2131296390;
+			// aapt resource value: 0x7F070086
+			public const int ActionMode_background = 2131165318;
 			
 			// aapt resource value: 0x1
 			public const int ActionMode_backgroundSplit = 1;
@@ -13284,8 +11844,8 @@ namespace AppCloudEditor.Droid
 					2130968763,
 					2130968824};
 			
-			// aapt resource value: 0x7F090093
-			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 2131296403;
+			// aapt resource value: 0x7F070093
+			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 2131165331;
 			
 			// aapt resource value: 0x1
 			public const int ActivityChooserView_initialActivityCount = 1;
@@ -13300,8 +11860,8 @@ namespace AppCloudEditor.Droid
 					2130968924,
 					2130968925};
 			
-			// aapt resource value: 0x7F090096
-			public const int AlertDialog_android_layout = 2131296406;
+			// aapt resource value: 0x7F070096
+			public const int AlertDialog_android_layout = 2131165334;
 			
 			// aapt resource value: 0x1
 			public const int AlertDialog_buttonIconDimen = 1;
@@ -13332,8 +11892,8 @@ namespace AppCloudEditor.Droid
 					16843157,
 					16843156};
 			
-			// aapt resource value: 0x7F090730
-			public const int AnimatedStateListDrawableCompat_android_constantSize = 2131298096;
+			// aapt resource value: 0x7F070730
+			public const int AnimatedStateListDrawableCompat_android_constantSize = 2131167024;
 			
 			// aapt resource value: 0x1
 			public const int AnimatedStateListDrawableCompat_android_dither = 1;
@@ -13354,8 +11914,8 @@ namespace AppCloudEditor.Droid
 					16843161,
 					16842960};
 			
-			// aapt resource value: 0x7F090737
-			public const int AnimatedStateListDrawableItem_android_drawable = 2131298103;
+			// aapt resource value: 0x7F070737
+			public const int AnimatedStateListDrawableItem_android_drawable = 2131167031;
 			
 			// aapt resource value: 0x1
 			public const int AnimatedStateListDrawableItem_android_id = 1;
@@ -13366,8 +11926,8 @@ namespace AppCloudEditor.Droid
 					16843851,
 					16843849};
 			
-			// aapt resource value: 0x7F090740
-			public const int AnimatedStateListDrawableTransition_android_drawable = 2131298112;
+			// aapt resource value: 0x7F070740
+			public const int AnimatedStateListDrawableTransition_android_drawable = 2131167040;
 			
 			// aapt resource value: 0x1
 			public const int AnimatedStateListDrawableTransition_android_fromId = 1;
@@ -13392,8 +11952,8 @@ namespace AppCloudEditor.Droid
 					2130968940,
 					2130968941};
 			
-			// aapt resource value: 0x7F090112
-			public const int AppBarLayoutStates_state_collapsed = 2131296530;
+			// aapt resource value: 0x7F070112
+			public const int AppBarLayoutStates_state_collapsed = 2131165458;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayoutStates_state_collapsible = 1;
@@ -13404,8 +11964,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x3
 			public const int AppBarLayoutStates_state_lifted = 3;
 			
-			// aapt resource value: 0x7F090105
-			public const int AppBarLayout_android_background = 2131296517;
+			// aapt resource value: 0x7F070105
+			public const int AppBarLayout_android_background = 2131165445;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayout_android_keyboardNavigationCluster = 1;
@@ -13423,8 +11983,8 @@ namespace AppCloudEditor.Droid
 					2130968852,
 					2130968853};
 			
-			// aapt resource value: 0x7F090117
-			public const int AppBarLayout_Layout_layout_scrollFlags = 2131296535;
+			// aapt resource value: 0x7F070117
+			public const int AppBarLayout_Layout_layout_scrollFlags = 2131165463;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayout_Layout_layout_scrollInterpolator = 1;
@@ -13438,8 +11998,8 @@ namespace AppCloudEditor.Droid
 					2130969018,
 					2130969019};
 			
-			// aapt resource value: 0x7F090120
-			public const int AppCompatImageView_android_src = 2131296544;
+			// aapt resource value: 0x7F070120
+			public const int AppCompatImageView_android_src = 2131165472;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatImageView_srcCompat = 1;
@@ -13456,8 +12016,8 @@ namespace AppCloudEditor.Droid
 					2130969016,
 					2130969017};
 			
-			// aapt resource value: 0x7F090125
-			public const int AppCompatSeekBar_android_thumb = 2131296549;
+			// aapt resource value: 0x7F070125
+			public const int AppCompatSeekBar_android_thumb = 2131165477;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatSeekBar_tickMark = 1;
@@ -13477,8 +12037,8 @@ namespace AppCloudEditor.Droid
 					16843117,
 					16842804};
 			
-			// aapt resource value: 0x7F090130
-			public const int AppCompatTextHelper_android_drawableBottom = 2131296560;
+			// aapt resource value: 0x7F070130
+			public const int AppCompatTextHelper_android_drawableBottom = 2131165488;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTextHelper_android_drawableEnd = 1;
@@ -13511,8 +12071,8 @@ namespace AppCloudEditor.Droid
 					2130968855,
 					2130968983};
 			
-			// aapt resource value: 0x7F090138
-			public const int AppCompatTextView_android_textAppearance = 2131296568;
+			// aapt resource value: 0x7F070138
+			public const int AppCompatTextView_android_textAppearance = 2131165496;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTextView_autoSizeMaxTextSize = 1;
@@ -13667,8 +12227,8 @@ namespace AppCloudEditor.Droid
 					2130969052,
 					2130969053};
 			
-			// aapt resource value: 0x7F090150
-			public const int AppCompatTheme_actionBarDivider = 2131296592;
+			// aapt resource value: 0x7F070150
+			public const int AppCompatTheme_actionBarDivider = 2131165520;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTheme_actionBarItemBackground = 1;
@@ -14038,8 +12598,8 @@ namespace AppCloudEditor.Droid
 					2130968775,
 					2130968806};
 			
-			// aapt resource value: 0x7F090272
-			public const int BottomAppBar_backgroundTint = 2131296882;
+			// aapt resource value: 0x7F070272
+			public const int BottomAppBar_backgroundTint = 2131165810;
 			
 			// aapt resource value: 0x1
 			public const int BottomAppBar_fabAlignmentMode = 1;
@@ -14068,8 +12628,8 @@ namespace AppCloudEditor.Droid
 					2130968840,
 					2130968876};
 			
-			// aapt resource value: 0x7F090279
-			public const int BottomNavigationView_elevation = 2131296889;
+			// aapt resource value: 0x7F070279
+			public const int BottomNavigationView_elevation = 2131165817;
 			
 			// aapt resource value: 0x1
 			public const int BottomNavigationView_itemBackground = 1;
@@ -14104,8 +12664,8 @@ namespace AppCloudEditor.Droid
 					2130968636,
 					2130968637};
 			
-			// aapt resource value: 0x7F090290
-			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 2131296912;
+			// aapt resource value: 0x7F070290
+			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 2131165840;
 			
 			// aapt resource value: 0x1
 			public const int BottomSheetBehavior_Layout_behavior_hideable = 1;
@@ -14119,8 +12679,8 @@ namespace AppCloudEditor.Droid
 			public static int[] ButtonBarLayout = new int[] {
 					2130968615};
 			
-			// aapt resource value: 0x7F090295
-			public const int ButtonBarLayout_allowStacking = 2131296917;
+			// aapt resource value: 0x7F070295
+			public const int ButtonBarLayout_allowStacking = 2131165845;
 			
 			public static int[] CardView = new int[] {
 					16843072,
@@ -14137,8 +12697,8 @@ namespace AppCloudEditor.Droid
 					2130968731,
 					2130968732};
 			
-			// aapt resource value: 0x7F090297
-			public const int CardView_android_minHeight = 2131296919;
+			// aapt resource value: 0x7F070297
+			public const int CardView_android_minHeight = 2131165847;
 			
 			// aapt resource value: 0x1
 			public const int CardView_android_minWidth = 1;
@@ -14220,8 +12780,8 @@ namespace AppCloudEditor.Droid
 					2130968926,
 					2130968927};
 			
-			// aapt resource value: 0x7F090346
-			public const int ChipGroup_checkedChip = 2131297094;
+			// aapt resource value: 0x7F070346
+			public const int ChipGroup_checkedChip = 2131166022;
 			
 			// aapt resource value: 0x1
 			public const int ChipGroup_chipSpacing = 1;
@@ -14238,8 +12798,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x5
 			public const int ChipGroup_singleSelection = 5;
 			
-			// aapt resource value: 0x7F090311
-			public const int Chip_android_checkable = 2131297041;
+			// aapt resource value: 0x7F070311
+			public const int Chip_android_checkable = 2131165969;
 			
 			// aapt resource value: 0x1
 			public const int Chip_android_ellipsize = 1;
@@ -14358,8 +12918,8 @@ namespace AppCloudEditor.Droid
 					2130969021,
 					2130969031};
 			
-			// aapt resource value: 0x7F090353
-			public const int CollapsingToolbarLayout_collapsedTitleGravity = 2131297107;
+			// aapt resource value: 0x7F070353
+			public const int CollapsingToolbarLayout_collapsedTitleGravity = 2131166035;
 			
 			// aapt resource value: 0x1
 			public const int CollapsingToolbarLayout_collapsedTitleTextAppearance = 1;
@@ -14392,8 +12952,8 @@ namespace AppCloudEditor.Droid
 					2130968847,
 					2130968848};
 			
-			// aapt resource value: 0x7F090370
-			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 2131297136;
+			// aapt resource value: 0x7F070370
+			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 2131166064;
 			
 			// aapt resource value: 0x1
 			public const int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
@@ -14421,8 +12981,8 @@ namespace AppCloudEditor.Droid
 					16843551,
 					16843173};
 			
-			// aapt resource value: 0x7F090003
-			public const int ColorStateListItem_alpha = 2131296259;
+			// aapt resource value: 0x7F070003
+			public const int ColorStateListItem_alpha = 2131165187;
 			
 			// aapt resource value: 0x1
 			public const int ColorStateListItem_android_alpha = 1;
@@ -14435,8 +12995,8 @@ namespace AppCloudEditor.Droid
 					2130968663,
 					2130968664};
 			
-			// aapt resource value: 0x7F090373
-			public const int CompoundButton_android_button = 2131297139;
+			// aapt resource value: 0x7F070373
+			public const int CompoundButton_android_button = 2131166067;
 			
 			// aapt resource value: 0x1
 			public const int CompoundButton_buttonTint = 1;
@@ -14448,8 +13008,8 @@ namespace AppCloudEditor.Droid
 					2130968589,
 					2130968596};
 			
-			// aapt resource value: 0x7F090041
-			public const int CoordinatorLayout_keylines = 2131296321;
+			// aapt resource value: 0x7F070041
+			public const int CoordinatorLayout_keylines = 2131165249;
 			
 			public static int[] CoordinatorLayout_Layout = new int[] {
 					16842931,
@@ -14460,8 +13020,8 @@ namespace AppCloudEditor.Droid
 					2130968594,
 					2130968595};
 			
-			// aapt resource value: 0x7F090044
-			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131296324;
+			// aapt resource value: 0x7F070044
+			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131165252;
 			
 			// aapt resource value: 0x1
 			public const int CoordinatorLayout_Layout_layout_anchor = 1;
@@ -14488,8 +13048,8 @@ namespace AppCloudEditor.Droid
 					2130968642,
 					2130968643};
 			
-			// aapt resource value: 0x7F090377
-			public const int DesignTheme_bottomSheetDialogTheme = 2131297143;
+			// aapt resource value: 0x7F070377
+			public const int DesignTheme_bottomSheetDialogTheme = 2131166071;
 			
 			// aapt resource value: 0x1
 			public const int DesignTheme_bottomSheetStyle = 1;
@@ -14504,8 +13064,8 @@ namespace AppCloudEditor.Droid
 					2130968931,
 					2130969011};
 			
-			// aapt resource value: 0x7F090380
-			public const int DrawerArrowToggle_arrowHeadLength = 2131297152;
+			// aapt resource value: 0x7F070380
+			public const int DrawerArrowToggle_arrowHeadLength = 2131166080;
 			
 			// aapt resource value: 0x1
 			public const int DrawerArrowToggle_arrowShaftLength = 1;
@@ -14543,8 +13103,8 @@ namespace AppCloudEditor.Droid
 					2130968922,
 					2130969041};
 			
-			// aapt resource value: 0x7F090389
-			public const int FloatingActionButton_backgroundTint = 2131297161;
+			// aapt resource value: 0x7F070389
+			public const int FloatingActionButton_backgroundTint = 2131166089;
 			
 			// aapt resource value: 0x1
 			public const int FloatingActionButton_backgroundTintMode = 1;
@@ -14552,8 +13112,8 @@ namespace AppCloudEditor.Droid
 			public static int[] FloatingActionButton_Behavior_Layout = new int[] {
 					2130968632};
 			
-			// aapt resource value: 0x7F090403
-			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 2131297283;
+			// aapt resource value: 0x7F070403
+			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 2131166211;
 			
 			// aapt resource value: 0x2
 			public const int FloatingActionButton_borderWidth = 2;
@@ -14592,8 +13152,8 @@ namespace AppCloudEditor.Droid
 					2130968834,
 					2130968856};
 			
-			// aapt resource value: 0x7F090405
-			public const int FlowLayout_itemSpacing = 2131297285;
+			// aapt resource value: 0x7F070405
+			public const int FlowLayout_itemSpacing = 2131166213;
 			
 			// aapt resource value: 0x1
 			public const int FlowLayout_lineSpacing = 1;
@@ -14618,8 +13178,8 @@ namespace AppCloudEditor.Droid
 					2130968587,
 					2130968588};
 			
-			// aapt resource value: 0x7F090014
-			public const int FontFamilyFont_android_font = 2131296276;
+			// aapt resource value: 0x7F070014
+			public const int FontFamilyFont_android_font = 2131165204;
 			
 			// aapt resource value: 0x1
 			public const int FontFamilyFont_android_fontStyle = 1;
@@ -14648,8 +13208,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x9
 			public const int FontFamilyFont_ttcIndex = 9;
 			
-			// aapt resource value: 0x7F090007
-			public const int FontFamily_fontProviderAuthority = 2131296263;
+			// aapt resource value: 0x7F070007
+			public const int FontFamily_fontProviderAuthority = 2131165191;
 			
 			// aapt resource value: 0x1
 			public const int FontFamily_fontProviderCerts = 1;
@@ -14671,8 +13231,8 @@ namespace AppCloudEditor.Droid
 					16843264,
 					2130968796};
 			
-			// aapt resource value: 0x7F090408
-			public const int ForegroundLinearLayout_android_foreground = 2131297288;
+			// aapt resource value: 0x7F070408
+			public const int ForegroundLinearLayout_android_foreground = 2131166216;
 			
 			// aapt resource value: 0x1
 			public const int ForegroundLinearLayout_android_foregroundGravity = 1;
@@ -14698,14 +13258,14 @@ namespace AppCloudEditor.Droid
 					16843173,
 					16844052};
 			
-			// aapt resource value: 0x7F090038
-			public const int GradientColorItem_android_color = 2131296312;
+			// aapt resource value: 0x7F070038
+			public const int GradientColorItem_android_color = 2131165240;
 			
 			// aapt resource value: 0x1
 			public const int GradientColorItem_android_offset = 1;
 			
-			// aapt resource value: 0x7F090025
-			public const int GradientColor_android_centerColor = 2131296293;
+			// aapt resource value: 0x7F070025
+			public const int GradientColor_android_centerColor = 2131165221;
 			
 			// aapt resource value: 0x1
 			public const int GradientColor_android_centerX = 1;
@@ -14743,8 +13303,8 @@ namespace AppCloudEditor.Droid
 			public static int[] ItemsViewRendererTheme = new int[] {
 					0};
 			
-			// aapt resource value: 0x7F090758
-			public const int ItemsViewRendererTheme_collectionViewStyle = 2131298136;
+			// aapt resource value: 0x7F070758
+			public const int ItemsViewRendererTheme_collectionViewStyle = 2131167064;
 			
 			public static int[] LinearLayoutCompat = new int[] {
 					16843046,
@@ -14757,8 +13317,8 @@ namespace AppCloudEditor.Droid
 					2130968875,
 					2130968921};
 			
-			// aapt resource value: 0x7F090412
-			public const int LinearLayoutCompat_android_baselineAligned = 2131297298;
+			// aapt resource value: 0x7F070412
+			public const int LinearLayoutCompat_android_baselineAligned = 2131166226;
 			
 			// aapt resource value: 0x1
 			public const int LinearLayoutCompat_android_baselineAlignedChildIndex = 1;
@@ -14784,8 +13344,8 @@ namespace AppCloudEditor.Droid
 					16843137,
 					16842996};
 			
-			// aapt resource value: 0x7F090422
-			public const int LinearLayoutCompat_Layout_android_layout_gravity = 2131297314;
+			// aapt resource value: 0x7F070422
+			public const int LinearLayoutCompat_Layout_android_layout_gravity = 2131166242;
 			
 			// aapt resource value: 0x1
 			public const int LinearLayoutCompat_Layout_android_layout_height = 1;
@@ -14806,8 +13366,8 @@ namespace AppCloudEditor.Droid
 					16843436,
 					16843437};
 			
-			// aapt resource value: 0x7F090427
-			public const int ListPopupWindow_android_dropDownHorizontalOffset = 2131297319;
+			// aapt resource value: 0x7F070427
+			public const int ListPopupWindow_android_dropDownHorizontalOffset = 2131166247;
 			
 			// aapt resource value: 0x1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
@@ -14830,8 +13390,8 @@ namespace AppCloudEditor.Droid
 					2130968944,
 					2130968945};
 			
-			// aapt resource value: 0x7F090430
-			public const int MaterialButton_android_insetBottom = 2131297328;
+			// aapt resource value: 0x7F070430
+			public const int MaterialButton_android_insetBottom = 2131166256;
 			
 			// aapt resource value: 0x1
 			public const int MaterialButton_android_insetLeft = 1;
@@ -14882,8 +13442,8 @@ namespace AppCloudEditor.Droid
 					2130968944,
 					2130968945};
 			
-			// aapt resource value: 0x7F090447
-			public const int MaterialCardView_strokeColor = 2131297351;
+			// aapt resource value: 0x7F070447
+			public const int MaterialCardView_strokeColor = 2131166279;
 			
 			// aapt resource value: 0x1
 			public const int MaterialCardView_strokeWidth = 1;
@@ -14922,8 +13482,8 @@ namespace AppCloudEditor.Droid
 					2130969004,
 					2130969008};
 			
-			// aapt resource value: 0x7F090450
-			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 2131297360;
+			// aapt resource value: 0x7F070450
+			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 2131166288;
 			
 			// aapt resource value: 0x1
 			public const int MaterialComponentsTheme_bottomSheetStyle = 1;
@@ -15024,8 +13584,8 @@ namespace AppCloudEditor.Droid
 					2130968691,
 					2130968752};
 			
-			// aapt resource value: 0x7F090754
-			public const int MediaRouteButton_android_minHeight = 2131298132;
+			// aapt resource value: 0x7F070754
+			public const int MediaRouteButton_android_minHeight = 2131167060;
 			
 			// aapt resource value: 0x1
 			public const int MediaRouteButton_android_minWidth = 1;
@@ -15044,8 +13604,8 @@ namespace AppCloudEditor.Droid
 					16843231,
 					16843156};
 			
-			// aapt resource value: 0x7F090483
-			public const int MenuGroup_android_checkableBehavior = 2131297411;
+			// aapt resource value: 0x7F070483
+			public const int MenuGroup_android_checkableBehavior = 2131166339;
 			
 			// aapt resource value: 0x1
 			public const int MenuGroup_android_enabled = 1;
@@ -15087,8 +13647,8 @@ namespace AppCloudEditor.Droid
 					2130968920,
 					2130969036};
 			
-			// aapt resource value: 0x7F090490
-			public const int MenuItem_actionLayout = 2131297424;
+			// aapt resource value: 0x7F070490
+			public const int MenuItem_actionLayout = 2131166352;
 			
 			// aapt resource value: 0x1
 			public const int MenuItem_actionProviderClass = 1;
@@ -15167,8 +13727,8 @@ namespace AppCloudEditor.Droid
 					2130968899,
 					2130968946};
 			
-			// aapt resource value: 0x7F090514
-			public const int MenuView_android_headerBackground = 2131297556;
+			// aapt resource value: 0x7F070514
+			public const int MenuView_android_headerBackground = 2131166484;
 			
 			// aapt resource value: 0x1
 			public const int MenuView_android_horizontalDivider = 1;
@@ -15208,8 +13768,8 @@ namespace AppCloudEditor.Droid
 					2130968838,
 					2130968876};
 			
-			// aapt resource value: 0x7F090524
-			public const int NavigationView_android_background = 2131297572;
+			// aapt resource value: 0x7F070524
+			public const int NavigationView_android_background = 2131166500;
 			
 			// aapt resource value: 0x1
 			public const int NavigationView_android_fitsSystemWindows = 1;
@@ -15252,11 +13812,11 @@ namespace AppCloudEditor.Droid
 			public static int[] PopupWindowBackgroundState = new int[] {
 					2130968937};
 			
-			// aapt resource value: 0x7F090541
-			public const int PopupWindowBackgroundState_state_above_anchor = 2131297601;
+			// aapt resource value: 0x7F070541
+			public const int PopupWindowBackgroundState_state_above_anchor = 2131166529;
 			
-			// aapt resource value: 0x7F090537
-			public const int PopupWindow_android_popupAnimationStyle = 2131297591;
+			// aapt resource value: 0x7F070537
+			public const int PopupWindow_android_popupAnimationStyle = 2131166519;
 			
 			// aapt resource value: 0x1
 			public const int PopupWindow_android_popupBackground = 1;
@@ -15268,8 +13828,8 @@ namespace AppCloudEditor.Droid
 					2130968884,
 					2130968887};
 			
-			// aapt resource value: 0x7F090543
-			public const int RecycleListView_paddingBottomNoButtons = 2131297603;
+			// aapt resource value: 0x7F070543
+			public const int RecycleListView_paddingBottomNoButtons = 2131166531;
 			
 			// aapt resource value: 0x1
 			public const int RecycleListView_paddingTopNoTitle = 1;
@@ -15287,8 +13847,8 @@ namespace AppCloudEditor.Droid
 					2130968930,
 					2130968936};
 			
-			// aapt resource value: 0x7F090546
-			public const int RecyclerView_android_descendantFocusability = 2131297606;
+			// aapt resource value: 0x7F070546
+			public const int RecyclerView_android_descendantFocusability = 2131166534;
 			
 			// aapt resource value: 0x1
 			public const int RecyclerView_android_orientation = 1;
@@ -15323,20 +13883,20 @@ namespace AppCloudEditor.Droid
 			public static int[] ScrimInsetsFrameLayout = new int[] {
 					2130968825};
 			
-			// aapt resource value: 0x7F090558
-			public const int ScrimInsetsFrameLayout_insetForeground = 2131297624;
+			// aapt resource value: 0x7F070558
+			public const int ScrimInsetsFrameLayout_insetForeground = 2131166552;
 			
 			public static int[] ScrollingViewBehavior_Layout = new int[] {
 					2130968635};
 			
-			// aapt resource value: 0x7F090560
-			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 2131297632;
+			// aapt resource value: 0x7F070560
+			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 2131166560;
 			
 			public static int[] ScrollViewRendererTheme = new int[] {
 					0};
 			
-			// aapt resource value: 0x7F090760
-			public const int ScrollViewRendererTheme_scrollViewStyle = 2131298144;
+			// aapt resource value: 0x7F070760
+			public const int ScrollViewRendererTheme_scrollViewStyle = 2131167072;
 			
 			public static int[] SearchView = new int[] {
 					16842970,
@@ -15357,8 +13917,8 @@ namespace AppCloudEditor.Droid
 					2130968952,
 					2130969043};
 			
-			// aapt resource value: 0x7F090562
-			public const int SearchView_android_focusable = 2131297634;
+			// aapt resource value: 0x7F070562
+			public const int SearchView_android_focusable = 2131166562;
 			
 			// aapt resource value: 0x1
 			public const int SearchView_android_imeOptions = 1;
@@ -15417,8 +13977,8 @@ namespace AppCloudEditor.Droid
 					2130968758,
 					2130968872};
 			
-			// aapt resource value: 0x7F090583
-			public const int SnackbarLayout_android_maxWidth = 2131297667;
+			// aapt resource value: 0x7F070583
+			public const int SnackbarLayout_android_maxWidth = 2131166595;
 			
 			// aapt resource value: 0x1
 			public const int SnackbarLayout_elevation = 1;
@@ -15426,8 +13986,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x2
 			public const int SnackbarLayout_maxActionInlineWidth = 2;
 			
-			// aapt resource value: 0x7F090580
-			public const int Snackbar_snackbarButtonStyle = 2131297664;
+			// aapt resource value: 0x7F070580
+			public const int Snackbar_snackbarButtonStyle = 2131166592;
 			
 			// aapt resource value: 0x1
 			public const int Snackbar_snackbarStyle = 1;
@@ -15439,8 +13999,8 @@ namespace AppCloudEditor.Droid
 					16843131,
 					2130968897};
 			
-			// aapt resource value: 0x7F090587
-			public const int Spinner_android_dropDownWidth = 2131297671;
+			// aapt resource value: 0x7F070587
+			public const int Spinner_android_dropDownWidth = 2131166599;
 			
 			// aapt resource value: 0x1
 			public const int Spinner_android_entries = 1;
@@ -15465,11 +14025,11 @@ namespace AppCloudEditor.Droid
 			public static int[] StateListDrawableItem = new int[] {
 					16843161};
 			
-			// aapt resource value: 0x7F090752
-			public const int StateListDrawableItem_android_drawable = 2131298130;
+			// aapt resource value: 0x7F070752
+			public const int StateListDrawableItem_android_drawable = 2131167058;
 			
-			// aapt resource value: 0x7F090745
-			public const int StateListDrawable_android_constantSize = 2131298117;
+			// aapt resource value: 0x7F070745
+			public const int StateListDrawable_android_constantSize = 2131167045;
 			
 			// aapt resource value: 0x1
 			public const int StateListDrawable_android_dither = 1;
@@ -15502,8 +14062,8 @@ namespace AppCloudEditor.Droid
 					2130969038,
 					2130969039};
 			
-			// aapt resource value: 0x7F090593
-			public const int SwitchCompat_android_textOff = 2131297683;
+			// aapt resource value: 0x7F070593
+			public const int SwitchCompat_android_textOff = 2131166611;
 			
 			// aapt resource value: 0x1
 			public const int SwitchCompat_android_textOn = 1;
@@ -15549,8 +14109,8 @@ namespace AppCloudEditor.Droid
 					16842994,
 					16843087};
 			
-			// aapt resource value: 0x7F090608
-			public const int TabItem_android_icon = 2131297800;
+			// aapt resource value: 0x7F070608
+			public const int TabItem_android_icon = 2131166728;
 			
 			// aapt resource value: 0x1
 			public const int TabItem_android_layout = 1;
@@ -15585,8 +14145,8 @@ namespace AppCloudEditor.Droid
 					2130968981,
 					2130968982};
 			
-			// aapt resource value: 0x7F090612
-			public const int TabLayout_tabBackground = 2131297810;
+			// aapt resource value: 0x7F070612
+			public const int TabLayout_tabBackground = 2131166738;
 			
 			// aapt resource value: 0x1
 			public const int TabLayout_tabContentStart = 1;
@@ -15675,8 +14235,8 @@ namespace AppCloudEditor.Droid
 					2130968786,
 					2130968983};
 			
-			// aapt resource value: 0x7F090638
-			public const int TextAppearance_android_fontFamily = 2131297848;
+			// aapt resource value: 0x7F070638
+			public const int TextAppearance_android_fontFamily = 2131166776;
 			
 			// aapt resource value: 0x1
 			public const int TextAppearance_android_shadowColor = 1;
@@ -15744,8 +14304,8 @@ namespace AppCloudEditor.Droid
 					2130968894,
 					2130968895};
 			
-			// aapt resource value: 0x7F090652
-			public const int TextInputLayout_android_hint = 2131297874;
+			// aapt resource value: 0x7F070652
+			public const int TextInputLayout_android_hint = 2131166802;
 			
 			// aapt resource value: 0x1
 			public const int TextInputLayout_android_textColorHint = 1;
@@ -15833,8 +14393,8 @@ namespace AppCloudEditor.Droid
 					2130968759,
 					2130968760};
 			
-			// aapt resource value: 0x7F090681
-			public const int ThemeEnforcement_android_textAppearance = 2131297921;
+			// aapt resource value: 0x7F070681
+			public const int ThemeEnforcement_android_textAppearance = 2131166849;
 			
 			// aapt resource value: 0x1
 			public const int ThemeEnforcement_enforceMaterialTheme = 1;
@@ -15873,8 +14433,8 @@ namespace AppCloudEditor.Droid
 					2130969028,
 					2130969029};
 			
-			// aapt resource value: 0x7F090685
-			public const int Toolbar_android_gravity = 2131297925;
+			// aapt resource value: 0x7F070685
+			public const int Toolbar_android_gravity = 2131166853;
 			
 			// aapt resource value: 0x1
 			public const int Toolbar_android_minHeight = 1;
@@ -15972,8 +14532,8 @@ namespace AppCloudEditor.Droid
 					2130968629,
 					2130968630};
 			
-			// aapt resource value: 0x7F090721
-			public const int ViewBackgroundHelper_android_background = 2131298081;
+			// aapt resource value: 0x7F070721
+			public const int ViewBackgroundHelper_android_background = 2131167009;
 			
 			// aapt resource value: 0x1
 			public const int ViewBackgroundHelper_backgroundTint = 1;
@@ -15986,8 +14546,8 @@ namespace AppCloudEditor.Droid
 					16842995,
 					16842994};
 			
-			// aapt resource value: 0x7F090725
-			public const int ViewStubCompat_android_id = 2131298085;
+			// aapt resource value: 0x7F070725
+			public const int ViewStubCompat_android_id = 2131167013;
 			
 			// aapt resource value: 0x1
 			public const int ViewStubCompat_android_inflatedId = 1;
@@ -15995,8 +14555,8 @@ namespace AppCloudEditor.Droid
 			// aapt resource value: 0x2
 			public const int ViewStubCompat_android_layout = 2;
 			
-			// aapt resource value: 0x7F090715
-			public const int View_android_focusable = 2131298069;
+			// aapt resource value: 0x7F070715
+			public const int View_android_focusable = 2131166997;
 			
 			// aapt resource value: 0x1
 			public const int View_android_theme = 1;
