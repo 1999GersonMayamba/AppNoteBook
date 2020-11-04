@@ -2,8 +2,8 @@
 Um App para armazenar as suas notas, em forma de texto, endereço, telefone, senha, email...
 
 <p>
+    <img src="https://user-images.githubusercontent.com/57480551/98097518-69d94200-1e8d-11eb-8494-16f499bfa555.png" width="350" alt="accessibility tex="Location">
   <img src="https://user-images.githubusercontent.com/57480551/98097534-6e9df600-1e8d-11eb-907e-481c29d80903.png" width="350" title="Home">
-  <img src="https://user-images.githubusercontent.com/57480551/98097518-69d94200-1e8d-11eb-8494-16f499bfa555.png" width="350" alt="accessibility tex="Location">
 </p>
 
 <p>
