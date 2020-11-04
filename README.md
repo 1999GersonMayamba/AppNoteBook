@@ -1,4 +1,4 @@
-# CloudEdtitor
+# AppNoteBook
 Um App para armazenar as suas notas, em forma de texto, endereço, telefone, senha, email...
 
 <p>
